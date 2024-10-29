@@ -89,7 +89,7 @@ public class Aufgabe5 {
         tetrisText.setFontSize(25);
         tetrisText.setBold(true);
         tetrisCanvas.setColor(textColor);
-        tetrisCanvas.drawText(nextShapeIndicatorX + stoneLength / 2, 2 * stoneLength, "TOP\n999999\nSCORE\n000000");
+        tetrisCanvas.drawText(nextShapeIndicatorX + stoneLength / 2, 2 * stoneLength, "TOP\n726000\nSCORE\nB91200");
         tetrisCanvas.drawText(nextShapeIndicatorX + stoneLength / 2, nextShapeIndicatorY + stoneLength / 2, "NEXT");
         tetrisCanvas.drawText(nextShapeIndicatorX + stoneLength / 2, levelIndicatorY + 0.5 * stoneLength, "LEVEL\n01");
 
