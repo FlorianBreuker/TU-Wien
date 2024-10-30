@@ -8,14 +8,18 @@ public class Aufgabe3 {
         int currentNumber = number;
         int checkSum = 0;
         while (currentNumber > 0){
+            //gets the last digit of currentNumber and adds it to the checksum
             checkSum += currentNumber % 10;
+            //cuts the last digit (int doesn't store floating point numbers)
             currentNumber /= 10;
         }
+        //checks if the number is evenly dividable by its checksum
         return number % checkSum == 0; //Zeile kann geändert oder entfernt werden.
     }
 
     private static void printHarshadNumbersInInterval(int start, int end) {
         //TODO: Implementieren Sie hier Ihre Lösung für die Angabe
+        //iterates from start to end and prints the current number, if its a harshad number
         for (int i = start; i <= end; i++) {
             if (isHarshadNumber(i)) {
                 System.out.print(i + " ");
