@@ -12,7 +12,7 @@ public class Aufgabe5 {
         int pixelWidth = 300;
         int pixelHeight = 300;
 
-        double numSquares = 5;
+        double numSquares = 19;
         double squareLength = pixelHeight / numSquares;
 
         if (numSquares % 2 == 0 || numSquares < 5 || numSquares > 19) {
