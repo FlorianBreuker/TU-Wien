@@ -60,7 +60,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/florian/Coding/TU Wien/EP1/Aufgabenblatt3",
+    "last_opened_file_path": "/home/florian/Coding/TU-Wien/EP1/Aufgabenblatt3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,7 +78,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aufgabe4">
+  <component name="RunManager" selected="Application.Aufgabe7">
     <configuration name="Aufgabe2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aufgabe2" />
       <module name="Aufgabenblatt3" />
@@ -122,6 +122,7 @@
       <updated>1617794320675</updated>
       <workItem from="1731143154057" duration="603000" />
       <workItem from="1731147112860" duration="13340000" />
+      <workItem from="1731236793676" duration="19416000" />
     </task>
     <servers />
   </component>
@@ -157,7 +158,17 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/src/Aufgabe4.java</url>
           <line>7</line>
-          <option name="timeStamp" value="11" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Aufgabe5.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Aufgabe7.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-defaults>

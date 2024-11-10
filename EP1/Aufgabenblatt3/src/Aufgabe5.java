@@ -5,7 +5,16 @@ public class Aufgabe5 {
 
     private static String orderCharGroups(String text) {
         // TODO: Implementieren Sie hier Ihre Lösung für die Methode
-        return ""; //Zeile kann geändert oder entfernt werden.
+        String result = "";
+        if (text.isEmpty()){
+            return text;
+        }
+        if (text.charAt(0) == text.charAt(text.length()-1)){
+            result = orderCharGroups(text.substring(1)) + text.charAt(0);
+        } else {
+            result = text.charAt(0) + orderCharGroups(text.substring(1));
+        }
+        return result;
     }
 
     public static void main(String[] args) {
