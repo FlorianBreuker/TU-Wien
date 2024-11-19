@@ -53,10 +53,25 @@ public class Aufgabe7 {
             }
         }
     }
-    
+
     // Iterative Version -> handgeschrieben und basierend auf ChatGPT Version
-    private static void drawCirclesIterHand(CodeDraw myDrawObj, int y, int radius, int num){
+    private static void drawCirclesIterHand(CodeDraw myDrawObj, int y, int radius, int num) {
         // TODO: Implementieren Sie hier Ihre Lösung für die Methode
+        final int xPosition = myDrawObj.getWidth() / 2;
+        //iterates through n (n is like a layer)
+        for (int i = 0; i <= num; i++) {
+            myDrawObj.setColor(new Color(255 - (num - i) * 30, 255 - (num - i) * 30, 0));
+            // based on the layer I need 2^n circles
+            for (int j = 0; j < Math.pow(2, i); j++) {
+                // starting at max y, the diameter of every circle will be subtracted by radius until you reach j = 0
+                // edge case j = 0, is covered bc (radius * 2 * j) is 0
+                // bc of this shift, all other circles need an extra shift of radius towards y = 0
+                y = myDrawObj.getHeight() - (radius * 2 * j) - radius;
+                myDrawObj.fillCircle(xPosition, y, radius);
+                myDrawObj.show();
+            }
+            radius /= 2;
+        }
     }
 
     public static void main(String[] args) {
@@ -64,27 +79,27 @@ public class Aufgabe7 {
         int pixelWidth = 512;
         int pixelHeight = 512;
 
-        CodeDraw myDrawObjI35 = new CodeDraw(pixelWidth, pixelHeight);
+/*        CodeDraw myDrawObjI35 = new CodeDraw(pixelWidth, pixelHeight);
         myDrawObjI35.setTitle("Output Iterative Method -> ChatGPT 3.5");
         myDrawObjI35.setCanvasPositionX(50);
-        myDrawObjI35.setCanvasPositionY(50);
+        myDrawObjI35.setCanvasPositionY(50);*/
 
-        CodeDraw myDrawObjI40 = new CodeDraw(pixelWidth, pixelHeight);
+/*        CodeDraw myDrawObjI40 = new CodeDraw(pixelWidth, pixelHeight);
         myDrawObjI40.setTitle("Output Iterative Method -> ChatGPT 4.0");
         myDrawObjI40.setCanvasPositionX(600);
-        myDrawObjI40.setCanvasPositionY(50);
+        myDrawObjI40.setCanvasPositionY(50);*/
 
         CodeDraw myDrawObjIHand = new CodeDraw(pixelWidth, pixelHeight);
         myDrawObjIHand.setTitle("Output Iterative Method Hand");
         myDrawObjIHand.setCanvasPositionX(1150);
         myDrawObjIHand.setCanvasPositionY(50);
 
-        drawCirclesIter35(myDrawObjI35, pixelHeight/2, pixelWidth/2, 5);
+/*        drawCirclesIter35(myDrawObjI35, pixelHeight / 2, pixelWidth / 2, 5);
         myDrawObjI35.show();
-        drawCirclesIter40(myDrawObjI40, pixelHeight/2, pixelWidth/2, 5);
-        myDrawObjI40.show();
+        drawCirclesIter40(myDrawObjI40, pixelHeight / 2, pixelWidth / 2, 5);
+        myDrawObjI40.show();*/
 
-        drawCirclesIterHand(myDrawObjIHand, pixelHeight/2, pixelWidth/2, 5);
+        drawCirclesIterHand(myDrawObjIHand, pixelHeight / 2, pixelWidth / 2, 3);
         myDrawObjIHand.show();
     }
 }

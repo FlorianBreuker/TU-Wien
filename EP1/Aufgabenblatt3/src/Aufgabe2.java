@@ -5,18 +5,18 @@ public class Aufgabe2 {
 
     private static void addChar(String text, char character) {
         //TODO: Implementieren Sie hier Ihre Lösung für die Angabe
-        int charToggle = 0;
         for (int i = 0; i < text.length(); i++) {
             System.out.print(text.charAt(i));
             if (i != text.length() - 1) {
-                if (charToggle % 2 == 0) {
+                //if the current character in text has an even index (charToggle), the filler character will be printed double
+                if (i % 2 == 0) {
                     for (int j = 0; j < 2; j++) {
                         System.out.print(character);
                     }
+                    // else the filler character will be printed one time
                 } else {
                     System.out.print(character);
                 }
-                charToggle++;
             }
         }
         System.out.println();
@@ -24,7 +24,8 @@ public class Aufgabe2 {
 
     private static void addChar(int number, char character) {
         //TODO: Implementieren Sie hier Ihre Lösung für die Angabe
-        addChar("" + number, character);
+        String numberToString = "" + number;
+        addChar(numberToString, character);
     }
 
     private static void addChar(String text, String characters) {
