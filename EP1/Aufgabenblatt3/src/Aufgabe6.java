@@ -10,12 +10,11 @@ public class Aufgabe6 {
 
     private static void drawCirclesRec(CodeDraw myDrawObj, int y, int radius, int num) {
         // TODO: Implementieren Sie hier Ihre Lösung für die Methode
-        if (num < 0) {
-            return;
-        } else {
+        if (num >= 0) {
             myDrawObj.setColor(new Color(255 - num * 30, 255 - num * 30, 0));
             myDrawObj.fillCircle(myDrawObj.getWidth() / 2, y, radius);
             drawCirclesRec(myDrawObj, y - radius / 2, radius / 2, num - 1);
+            // will be executed on the return path and draws the mirrored circle
             drawCirclesRec(myDrawObj, y + radius / 2, radius / 2, num - 1);
         }
 

@@ -79,25 +79,25 @@ public class Aufgabe7 {
         int pixelWidth = 512;
         int pixelHeight = 512;
 
-/*        CodeDraw myDrawObjI35 = new CodeDraw(pixelWidth, pixelHeight);
+        CodeDraw myDrawObjI35 = new CodeDraw(pixelWidth, pixelHeight);
         myDrawObjI35.setTitle("Output Iterative Method -> ChatGPT 3.5");
         myDrawObjI35.setCanvasPositionX(50);
-        myDrawObjI35.setCanvasPositionY(50);*/
+        myDrawObjI35.setCanvasPositionY(50);
 
-/*        CodeDraw myDrawObjI40 = new CodeDraw(pixelWidth, pixelHeight);
+        CodeDraw myDrawObjI40 = new CodeDraw(pixelWidth, pixelHeight);
         myDrawObjI40.setTitle("Output Iterative Method -> ChatGPT 4.0");
         myDrawObjI40.setCanvasPositionX(600);
-        myDrawObjI40.setCanvasPositionY(50);*/
+        myDrawObjI40.setCanvasPositionY(50);
 
         CodeDraw myDrawObjIHand = new CodeDraw(pixelWidth, pixelHeight);
         myDrawObjIHand.setTitle("Output Iterative Method Hand");
         myDrawObjIHand.setCanvasPositionX(1150);
         myDrawObjIHand.setCanvasPositionY(50);
 
-/*        drawCirclesIter35(myDrawObjI35, pixelHeight / 2, pixelWidth / 2, 5);
+        drawCirclesIter35(myDrawObjI35, pixelHeight / 2, pixelWidth / 2, 5);
         myDrawObjI35.show();
         drawCirclesIter40(myDrawObjI40, pixelHeight / 2, pixelWidth / 2, 5);
-        myDrawObjI40.show();*/
+        myDrawObjI40.show();
 
         drawCirclesIterHand(myDrawObjIHand, pixelHeight / 2, pixelWidth / 2, 5);
         myDrawObjIHand.show();
