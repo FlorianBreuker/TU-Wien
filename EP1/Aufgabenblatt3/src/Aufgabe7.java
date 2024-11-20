@@ -99,7 +99,7 @@ public class Aufgabe7 {
         drawCirclesIter40(myDrawObjI40, pixelHeight / 2, pixelWidth / 2, 5);
         myDrawObjI40.show();*/
 
-        drawCirclesIterHand(myDrawObjIHand, pixelHeight / 2, pixelWidth / 2, 3);
+        drawCirclesIterHand(myDrawObjIHand, pixelHeight / 2, pixelWidth / 2, 5);
         myDrawObjIHand.show();
     }
 }
