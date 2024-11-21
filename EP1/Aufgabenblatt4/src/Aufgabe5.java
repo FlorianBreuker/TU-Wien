@@ -8,14 +8,22 @@ public class Aufgabe5 {
 
     private static int[][] generateExtendedArray(int[] inputArray) {
         // TODO: Implementieren Sie hier Ihre Lösung für die Methode
-        int arrayHeight = inputArray[1]-inputArray[0]+1;
+
+        // based on the specification the newArray height will be set
+        int arrayHeight = inputArray[1] - inputArray[0] + 1;
         int[][] result = new int[arrayHeight][];
+
+        // every row gets iterated and a new array will be initialized inside
         for (int i = 0; i < result.length; i++) {
+            // based on inputArray[0] a new array with the current amount of columns will be initialized.
             result[i] = new int[inputArray[0]];
             for (int j = 0; j < inputArray[0]; j++) {
+                // every column gets iterated and set to the current number.
                 result[i][j] = inputArray[2];
+                // current number is incremented by 1
                 inputArray[2]++;
             }
+            // column size will be incremented by one
             inputArray[0]++;
         }
         return result; //Zeile kann geändert oder entfernt werden.

@@ -8,7 +8,46 @@ public class Aufgabe6 {
 
     private static int[][] generateReformattedArray(int[][] inputArray) {
         // TODO: Implementieren Sie hier Ihre Lösung für die Methode
-        return null; //Zeile kann geändert oder entfernt werden.
+        int[][] result = new int[inputArray.length][];
+
+        for (int i = 0; i < result.length; i++) {
+            // to get the currentIndex of each row I stored the last index for every row here
+            int lastIndex = 0;
+            // according to specification every row can get a different amount of columns
+            int amountOfCols = getNewArraysCols(inputArray, i);
+            result[i] = new int[amountOfCols];
+            for (int j = 0; j < inputArray[i].length; j += 2) {
+                // the current row is iterated through every EVEN index
+                // as mentioned before every EVEN index holds the amount of the following column, so I store the amount
+                // and the value
+                int amount = inputArray[i][j];
+                int value = inputArray[i][j + 1];
+                // then, I add the amount of values to the result array and store the lastIndex
+                lastIndex = addFormattedRows(result, i, amount, value, lastIndex);
+            }
+        }
+        return result; //Zeile kann geändert oder entfernt werden.
+    }
+
+    private static int getNewArraysCols(int[][] formattedArray, int i) {
+        // according to the specification EVEN INDEX holds the appearances of the following INT
+        // based on that, those appearances will be summed up, so the amount of columns is calculated
+        int cols = 0;
+        for (int j = 0; j < formattedArray[i].length; j++) {
+            if (j % 2 == 0) {
+                cols += formattedArray[i][j];
+            }
+        }
+        return cols;
+    }
+
+    private static int addFormattedRows(int[][] formattedArray, int row, int amount, int value, int lastIndex) {
+        for (int i = lastIndex; i < (lastIndex + amount); i++) {
+            // beginning at lastIndex, the value gets added to the array based on the amount
+            formattedArray[row][i] = value;
+        }
+        // new index will be returned
+        return lastIndex + amount;
     }
 
     //Vorgegebene Methode - BITTE NICHT VERÄNDERN!

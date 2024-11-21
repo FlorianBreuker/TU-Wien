@@ -8,13 +8,19 @@ public class Aufgabe3 {
 
     private static void replaceValues(int[] workArray) {
         //TODO: Implementieren Sie hier Ihre Lösung für die Angabe
+
+        // finding min and max value in the array
         int min = findMinAndMaxElement(workArray)[0];
         int max = findMinAndMaxElement(workArray)[1];
 
         for (int i = 0; i < workArray.length; i++) {
+            // now again every element is iterated and the distance from currentElement to minValue and maxValue is
+            // stored
             int diffMin = workArray[i] - min;
             int diffMax = max - workArray[i];
 
+            // if the distance to the maxValue, is shorter, the current element gets maxValue as value
+            // else the minValue will be stored
             if (diffMin > diffMax) {
                 workArray[i] = max;
             } else {
@@ -24,6 +30,10 @@ public class Aufgabe3 {
     }
 
     private static int[] findMinAndMaxElement (int[] workArray) {
+        // iterates through the workArray and checks for every value if it's greater than max or smaller than min
+        // if so, the smaller / bigger value gets stored in minMax.
+
+        // the minValue will be stored in minMax[0]; the maxValue in minMax[1]
         int[] minMax = new int[]{workArray[0],workArray[0]};
         for (int i = 0; i < workArray.length; i++) {
             if (minMax[0] > workArray[i]){
