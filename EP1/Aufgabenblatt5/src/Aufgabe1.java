@@ -8,25 +8,31 @@ public class Aufgabe1 {
 
     private static void shiftLines(int[][] workArray) {
         // TODO: Implementieren Sie hier Ihre Lösung für die Methode
-        int shortestLineIndex = getShortestLine(workArray);
 
+        // first case check if all elements in the array have the same length
         if (checkIfAllElementsAreSameLength(workArray)){
             shiftAllLines(workArray);
         } else {
-            switchFirstAndShortestLine(workArray, shortestLineIndex);
+            // get the index of the shortest line and afterward switch both lines
+            switchFirstAndShortestLine(workArray);
         }
     }
 
     private static void shiftAllLines(int[][] workArray) {
+        // creating a duplicate element of the first row for later swap
         int[] firstLine = createDuplicateOfLine(workArray,0);
         for (int i = 0; i < workArray.length - 1; i++) {
+            // overwrite current line with next line
             int[] nextLine = createDuplicateOfLine(workArray,i + 1);
             workArray[i] = nextLine;
         }
+        // after the shift, the last row is existing twice.
+        // so the first element needs to be pushed in the last row
         workArray[firstLine.length-1] = firstLine;
     }
 
     private static int getShortestLine (int[][] workArray) {
+        // checks if the current line is shorter than the memorized shortestLine
         int currentShortestLineIndex = 0;
         for (int i = 0; i < workArray.length; i++) {
             if (workArray[i].length < workArray[currentShortestLineIndex].length) {
@@ -36,7 +42,12 @@ public class Aufgabe1 {
         return currentShortestLineIndex;
     }
 
-    private static void switchFirstAndShortestLine(int[][] workArray, int shortestLineIndex) {
+    private static void switchFirstAndShortestLine(int[][] workArray) {
+        // gets the shortest row in the array
+        // afterward a copy of the first and the shortest line is created
+        // then both lines get swapped
+
+        int shortestLineIndex = getShortestLine(workArray);
         int[] shortestLine = createDuplicateOfLine(workArray,shortestLineIndex);
         int[] firstLine = createDuplicateOfLine(workArray,0);
 
@@ -45,6 +56,8 @@ public class Aufgabe1 {
     }
 
     private static int[] createDuplicateOfLine(int[][] workArray, int rowIndex) {
+        // creates a copy of a given row and returns this array
+
         int[] duplicatedLine = new int[workArray[rowIndex].length];
 
         for (int i = 0; i < workArray[rowIndex].length; i++) {
@@ -54,18 +67,18 @@ public class Aufgabe1 {
     }
 
     private static boolean checkIfAllElementsAreSameLength(int[][] workArray) {
-        boolean lengthChecker = true;
+        // iterates every row in the array and checks if the next row is the same length as the current
+        // if not so false will be returned
+        // when the loop reaches its end, true will be return (so every line is the same length)
 
         for (int i = 0; i < workArray.length; i++) {
             if (i < workArray[i].length - 1) {
-                if (workArray[i].length == workArray[i + 1].length) {
-                    lengthChecker = true;
-                } else {
+                if (workArray[i].length != workArray[i + 1].length) {
                     return false;
                 }
             }
         }
-        return lengthChecker;
+        return true;
     }
 
     //Vorgegebene Methode - BITTE NICHT VERÄNDERN!

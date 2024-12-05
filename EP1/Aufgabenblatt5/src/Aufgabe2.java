@@ -8,15 +8,19 @@ public class Aufgabe2 {
 
     private static void reformatArray(int[][] workArray) {
         // TODO: Implementieren Sie hier Ihre Lösung für die Methode
+
+        // first of all rows get sorted via bubble sort
+        // afterward the sum column is being added and a sum calculated
         sortLines(workArray);
         getEachRow(workArray);
-
     }
 
     private static void sortLines(int[][] workArray) {
+        // bubble sort
         for (int i = 0; i < workArray.length; i++) {
             for (int j = 0; j < workArray[i].length - 1; j++) {
                 for (int k = 0; k < workArray[i].length - j - 1; k++) {
+                    // checks if the current element is odd and the next even, if so they will be swapped
                     if (workArray[i][k] % 2 != 0 && workArray[i][k + 1] % 2 == 0) {
                         exchangeValues(workArray, i, k, k + 1);
                     }
@@ -26,18 +30,26 @@ public class Aufgabe2 {
     }
 
     private static void exchangeValues(int[][] workArray, int row, int current, int next) {
+        // item swap bubble sort
         int swap = workArray[row][current];
         workArray[row][current] = workArray[row][next];
         workArray[row][next] = swap;
     }
 
     private static void getEachRow(int[][] workArray) {
+        // for every row a sum field will be added and a sum calculated
+        // the new row will overwrite the current line
         for (int i = 0; i < workArray.length; i++) {
             workArray[i] = duplicateAndCalculateSum(workArray, i);
         }
     }
 
     private static int[] duplicateAndCalculateSum(int[][] workArray, int currentRow) {
+        // a new array with current row length + 1 is created
+        // the row in the work array will be iterated and all values will be sent to the new one
+        // additional to that the sum gets incremented by the current value
+        // as a last step the very last field in the new array gets the value of the calculated sum
+
         int[] duplicateRow = new int[workArray[currentRow].length + 1];
         int sum = 0;
         for (int i = 0; i < workArray[currentRow].length; i++) {

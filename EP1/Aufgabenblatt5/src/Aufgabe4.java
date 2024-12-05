@@ -12,6 +12,17 @@ public class Aufgabe4 {
 
     private static void floodFill(CodeDraw myDrawObj, int[][] picArray, int sy, int sx) {
         // TODO: Implementieren Sie hier Ihre Lösung für die Methode
+        // if the current element is 0 (drawable) and the coordinates of the current point are not outside the
+        // matrix border a point will be drawn until the edge case happens.
+        // to reach the edge cases X and Y coordinates (indexes) will be incremented or decremented (recursion)
+        if (picArray[sy][sx] == 0 && sy > 0 && sy < picArray[sx].length - 1 && sx > 0 && sx < picArray[sx].length - 1) {
+            myDrawObj.drawPoint(sx,sy);
+            picArray[sy][sx] = 1;
+            floodFill(myDrawObj,picArray,sy+1,sx);
+            floodFill(myDrawObj,picArray,sy,sx+1);
+            floodFill(myDrawObj,picArray,sy-1,sx);
+            floodFill(myDrawObj,picArray,sy,sx-1);
+        }
     }
 
 
@@ -46,6 +57,15 @@ public class Aufgabe4 {
             picArray[y0][x0] = 1;
             myDrawObj.drawPoint(x0, y0);
             System.out.println("Point: x:" + x0 + " y:" + y0);
+        }
+    }
+
+    private static void printArray(int[][] picArray) {
+        for (int i = 0; i < picArray.length; i++) {
+            for (int j = 0; j < picArray[i].length; j++) {
+                System.out.print(picArray[i][j]);
+            }
+            System.out.println();
         }
     }
 
@@ -87,46 +107,84 @@ public class Aufgabe4 {
                 int mouseY = currentClick.getY();
                 int mouseX = currentClick.getX();
 
+                yClick[1] = mouseY;
+                xClick[1] = mouseX;
+
                 int buttonCounter = 1;
                 //Button RED
                 if (mouseY >= 0 && mouseY < buttonCounter * (squareSize - 1) && mouseX >= width - squareSize && mouseX < width - 1) {
                     myDrawObj.setColor(Palette.RED);
                     colorChosen = true;
                 }
+
                 //Button GREEN
                 else if (mouseY >= buttonCounter++ * squareSize && mouseY < buttonCounter * (squareSize - 1) && mouseX >= width - squareSize && mouseX < width - 1) {
                     myDrawObj.setColor(Palette.GREEN);
                     colorChosen = true;
                 }
+
+                // same logic as GREEN and RED
+
                 //Button BLUE
                 //**********************************************
                 //TODO: Implementieren Sie hier Ihre Lösung für den Klick auf die blaue Fläche
                 //**********************************************
+                else if (mouseY >= buttonCounter++ * squareSize && mouseY < buttonCounter * (squareSize - 1) && mouseX >= width - squareSize && mouseX < width - 1) {
+                    myDrawObj.setColor(Palette.BLUE);
+                    colorChosen = true;
+                }
 
                 //Button YELLOW
                 //**********************************************
                 //TODO: Implementieren Sie hier Ihre Lösung für den Klick auf die gelbe Fläche
                 //**********************************************
+                else if (mouseY >= buttonCounter++ * squareSize && mouseY < buttonCounter * (squareSize - 1) && mouseX >= width - squareSize && mouseX < width - 1) {
+                    myDrawObj.setColor(Palette.YELLOW);
+                    colorChosen = true;
+                }
 
                 //Button CYAN
                 //**********************************************
                 //TODO: Implementieren Sie hier Ihre Lösung für den Klick auf die cyanfarbene Fläche
                 //**********************************************
+                else if (mouseY >= buttonCounter++ * squareSize && mouseY < buttonCounter * (squareSize - 1) && mouseX >= width - squareSize && mouseX < width - 1) {
+                    myDrawObj.setColor(Palette.CYAN);
+                    colorChosen = true;
+                }
+
                 else {
                     if (colorChosen) {
                         //**********************************************
                         //TODO: Ergänzen Sie den fehlenden Code (Zustand: Fläche füllen)
                         //**********************************************
+
+                        // with the values of the current click position the floodFill recursion is activated
+                        floodFill(myDrawObj,picArray,yClick[1],xClick[1]);
+
+                        // bc the field is not shown until a line is drawn, *.show() reloads the canvas
+                        myDrawObj.show();
+
+                        // after filling the fill state is quited
+                        colorChosen = false;
                     } else {
                         myDrawObj.setLineWidth(2);
                         myDrawObj.setColor(Palette.BLACK);
                         //**********************************************
                         //TODO: Ergänzen Sie den fehlenden Code (Zustand: Linien zeichnen)
                         //**********************************************
+
+                        // a line is being drawn and the current click coordinates will be set as starting position
+                        // for the next line
+                        paintLine(myDrawObj, picArray, yClick, xClick);
+
+                        xClick[0] = xClick[1];
+                        yClick[0] = yClick[1];
+
                         myDrawObj.setLineWidth(1);
                         myDrawObj.show();
                     }
                 }
+
             } else {
                 myEventSC.nextEvent();
             }
