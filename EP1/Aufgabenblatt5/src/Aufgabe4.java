@@ -15,7 +15,7 @@ public class Aufgabe4 {
         // if the current element is 0 (drawable) and the coordinates of the current point are not outside the
         // matrix border a point will be drawn until the edge case happens.
         // to reach the edge cases X and Y coordinates (indexes) will be incremented or decremented (recursion)
-        if (picArray[sy][sx] == 0 && sy > 0 && sy < picArray[sx].length - 1 && sx > 0 && sx < picArray[sx].length - 1) {
+        if (picArray[sy][sx] == 0 && sy > 0 && sy < picArray.length - 1 && sx > 0 && sx < picArray[sx].length - 1) {
             myDrawObj.drawPoint(sx,sy);
             picArray[sy][sx] = 1;
             floodFill(myDrawObj,picArray,sy+1,sx);
