@@ -15,8 +15,6 @@ def define_transformations() -> List[np.ndarray]:
     # NOTE: The following lines can be removed. They prevent the framework
     #       from crashing.
 
-    t1, t2, t3, t4 = np.zeros((3, 3)), np.zeros((3, 3)), np.zeros((3, 3)), np.zeros((3, 3))
-
     t1 = mtranslate(-3, 0) @ mrotate(55)
     t2 = mrotate(55) @ mtranslate(-3, 0)
     t3 = mtranslate(3, 1) @ mrotate(70) @ mscale(3, 2)

@@ -156,7 +156,6 @@ def filter_image(img: np.ndarray) -> np.ndarray:
                 patch = padded[i:i + 5, j:j + 5, c]
                 out[i][j][c] = np.sum(patch * gaussian)
 
-
     ### END STUDENT CODE
 
     return out
@@ -172,14 +171,11 @@ def horizontal_edges(img: np.ndarray) -> np.ndarray:
     # NOTE: The following lines can be removed. They prevent the framework
     #       from crashing.
 
-    out = np.zeros(img.shape)
     sobel_horizontal = np.array([
         [1, 2, 1],
         [0, 0, 0],
         [-1, -2, -1]
     ])
-
-    # Anwendung des Filters mit scipy.ndimage.correlate
     out = scipy.ndimage.correlate(img, sobel_horizontal, mode='constant', cval=0)
 
     ### END STUDENT CODE
