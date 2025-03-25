@@ -44,11 +44,7 @@ public class UE3 {
     }
 
     private static String insertMiddle(String input, String seps) {
-        if (input.isEmpty()) {
-            return "";
-        }
-
-        return seps.charAt(0) + insertMiddle(input.substring(0, input.length() / 2), seps.substring(1));
+        return "1";
     }
 
     public static void main(String[] args) {
@@ -73,7 +69,8 @@ public class UE3 {
 
         System.out.println("_____________________________________");
 
-        System.out.println(insertMiddle("XY", "abc"));
+        //System.out.println(insertMiddle("XY", "abc"));
+        System.out.println(insertMiddle("01234", "abc"));
 
 
     }
