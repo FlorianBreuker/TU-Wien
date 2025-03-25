@@ -23,7 +23,7 @@ def convert(img: Image.Image) -> np.ndarray:
     # NOTE: The following lines can be removed. They prevent the framework
     #       from crashing.
 
-    out = np.array(img, dtype=float) / 255
+    out = np.array(img) / 255
     print(out)
 
     ### END STUDENT CODE
@@ -62,8 +62,7 @@ def image_mark_green(img: np.ndarray) -> np.ndarray:
     # NOTE: The following lines can be removed. They prevent the framework
     #       from crashing.
 
-    green_channel = img[:, :, 1]
-    mask = green_channel >= 0.7
+    mask = img[:, :, 1] >= 0.7
 
     ### END STUDENT CODE
 
@@ -82,10 +81,10 @@ def image_masked(img: np.ndarray, mask: np.ndarray) -> np.ndarray:
 
     out = img.copy()
 
-    mask3d = mask[:,:,np.newaxis]
+    mask3d = mask[:, :, np.newaxis]
     mask3d = np.repeat(mask3d, 3, axis=2)
 
-    out[mask3d] = 1
+    out[mask3d] = 0
 
     ### END STUDENT CODE
 
@@ -102,7 +101,7 @@ def grayscale(img: np.ndarray) -> np.ndarray:
     # NOTE: The following lines can be removed. They prevent the framework
     #       from crashing.
 
-    out = np.zeros(img.shape)
+    out = utils.rgb2gray(img)
 
     ### END STUDENT CODE
 
@@ -119,7 +118,16 @@ def cut_and_reshape(img_gray: np.ndarray) -> np.ndarray:
     # NOTE: The following lines can be removed. They prevent the framework
     #       from crashing.
 
-    out = np.zeros(img_gray.shape)
+    out = np.zeros((img_gray.shape[0] * 2, img_gray.shape[1] // 2))
+
+    for i in range(img_gray.shape[0]):
+        for j in range(img_gray.shape[1]):
+            if j < img_gray.shape[1] // 2:
+                out[i + out.shape[0] // 2][j] = img_gray[i][j]
+            else:
+                out[i - out.shape[0]][j - out.shape[1]] = img_gray[i][j]
+
+    print(out)
 
     ### END STUDENT CODE
 
@@ -128,7 +136,7 @@ def cut_and_reshape(img_gray: np.ndarray) -> np.ndarray:
 
 def filter_image(img: np.ndarray) -> np.ndarray:
     """
-        filters the image with the gaussian kernel given below. 
+        filters the image with the gaussian kernel given below.
     """
     gaussian = utils.gauss_filter(5, 2)
 
@@ -138,7 +146,16 @@ def filter_image(img: np.ndarray) -> np.ndarray:
     # NOTE: The following lines can be removed. They prevent the framework
     #       from crashing.
 
-    out = np.zeros(img.shape)
+    padded = np.pad(img, ((2, 2), (2, 2), (0, 0)), mode='constant')
+
+    out = np.zeros_like(img)
+
+    for c in range(3):
+        for i in range(img.shape[0]):
+            for j in range(img.shape[1]):
+                patch = padded[i:i + 5, j:j + 5, c]
+                out[i][j][c] = np.sum(patch * gaussian)
+
 
     ### END STUDENT CODE
 
@@ -156,6 +173,14 @@ def horizontal_edges(img: np.ndarray) -> np.ndarray:
     #       from crashing.
 
     out = np.zeros(img.shape)
+    sobel_horizontal = np.array([
+        [1, 2, 1],
+        [0, 0, 0],
+        [-1, -2, -1]
+    ])
+
+    # Anwendung des Filters mit scipy.ndimage.correlate
+    out = scipy.ndimage.correlate(img, sobel_horizontal, mode='constant', cval=0)
 
     ### END STUDENT CODE
 
