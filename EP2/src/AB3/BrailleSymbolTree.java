@@ -31,7 +31,6 @@ public class BrailleSymbolTree implements Tree {
         for (char i = 'a'; i <= 'z'; i++) {
             addNode(i);
         }
-
         addNode(' ');
     }
 

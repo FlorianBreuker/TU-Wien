@@ -39,6 +39,7 @@ public class BrailleReader {
         char[][] result = new char[HEIGHT][WIDTH];
 
         for (int i = 0; i < brailleLine.length; i++) {
+            if (brailleLine[i] == null || brailleLine[i].length() != brailleLine[0].length()) return null;
             for (int j = start; j < start + WIDTH; j++) {
                 result[i][j - start] = brailleLine[i].charAt(j);
             }
@@ -62,13 +63,19 @@ public class BrailleReader {
         if (brailleLine.length != HEIGHT || (lineLengthCheck != WIDTH && lineLengthCheck != 0) || spacing < 0)
             return "";
 
+        for (String s : brailleLine) {
+            if (s.length() != brailleLine[0].length()) return "";
+        }
+
         try {
             StringBuilder translatedBraille = new StringBuilder();
             int amountOfCharacters = (brailleLine[0].length() + spacing) / (WIDTH + spacing);
 
             for (int i = 0; i < amountOfCharacters; i++) {
                 char[][] currentBraille = getBrailleChar(i, spacing, brailleLine);
+                if (currentBraille == null) return "";
                 char currentChar = decoder.decodeBitmap(currentBraille, dotSymbol);
+                if (currentChar == 0) return "";
                 translatedBraille.append(currentChar);
             }
             return translatedBraille.toString();
