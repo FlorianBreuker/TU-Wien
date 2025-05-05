@@ -1,0 +1,2546 @@
+#abgabe.csv
+#Florian Matthias
+#Breuker
+#12418806
+group,number,duration,size
+Maximumsuche,1,16767,0
+Maximumsuche,2,1253,1
+Maximumsuche,3,1203,2
+Maximumsuche,4,1262,3
+Maximumsuche,5,1303,4
+Maximumsuche,6,1343,5
+Maximumsuche,7,1563,6
+Maximumsuche,8,2566,7
+Maximumsuche,9,1563,8
+Maximumsuche,10,1393,9
+Maximumsuche,11,1393,10
+Maximumsuche,12,1744,11
+Maximumsuche,13,1834,12
+Maximumsuche,14,1683,13
+Maximumsuche,15,2496,14
+Maximumsuche,16,1683,15
+Maximumsuche,17,2526,16
+Maximumsuche,18,2164,17
+Maximumsuche,19,2104,18
+Maximumsuche,20,1994,19
+Maximumsuche,21,2376,20
+Maximumsuche,22,2656,21
+Maximumsuche,23,2175,22
+Maximumsuche,24,1854,23
+Maximumsuche,25,2295,24
+Maximumsuche,26,2185,25
+Maximumsuche,27,2315,26
+Maximumsuche,28,2506,27
+Maximumsuche,29,2115,28
+Maximumsuche,30,1975,29
+Maximumsuche,31,2084,30
+Maximumsuche,32,2215,31
+Maximumsuche,33,2035,32
+Maximumsuche,34,2115,33
+Maximumsuche,35,2014,34
+Maximumsuche,36,2295,35
+Maximumsuche,37,2025,36
+Maximumsuche,38,2054,37
+Maximumsuche,39,2566,38
+Maximumsuche,40,2806,39
+Maximumsuche,41,2215,40
+Maximumsuche,42,2165,41
+Maximumsuche,43,2416,42
+Maximumsuche,44,2215,43
+Maximumsuche,45,2305,44
+Maximumsuche,46,2285,45
+Maximumsuche,47,3949,46
+Maximumsuche,48,2406,47
+Maximumsuche,49,2335,48
+Maximumsuche,50,2987,49
+Maximumsuche,51,2496,50
+Maximumsuche,52,2355,51
+Maximumsuche,53,2395,52
+Maximumsuche,54,2586,53
+Maximumsuche,55,2405,54
+Maximumsuche,56,2535,55
+Maximumsuche,57,2526,56
+Maximumsuche,58,2566,57
+Maximumsuche,59,3718,58
+Maximumsuche,60,2766,59
+Maximumsuche,61,3247,60
+Maximumsuche,62,2766,61
+Maximumsuche,63,2786,62
+Maximumsuche,64,2806,63
+Maximumsuche,65,2966,64
+Maximumsuche,66,6083,65
+Maximumsuche,67,2796,66
+Maximumsuche,68,3157,67
+Maximumsuche,69,2806,68
+Maximumsuche,70,2736,69
+Maximumsuche,71,2736,70
+Maximumsuche,72,2856,71
+Maximumsuche,73,2716,72
+Maximumsuche,74,3608,73
+Maximumsuche,75,3337,74
+Maximumsuche,76,3217,75
+Maximumsuche,77,5051,76
+Maximumsuche,78,3889,77
+Maximumsuche,79,4029,78
+Maximumsuche,80,7346,79
+Maximumsuche,81,4039,80
+Maximumsuche,82,3107,81
+Maximumsuche,83,4169,82
+Maximumsuche,84,4520,83
+Maximumsuche,85,3939,84
+Maximumsuche,86,3288,85
+Maximumsuche,87,4439,86
+Maximumsuche,88,4390,87
+Maximumsuche,89,3267,88
+Maximumsuche,90,4290,89
+Maximumsuche,91,3858,90
+Maximumsuche,92,4570,91
+Maximumsuche,93,9321,92
+Maximumsuche,94,4741,93
+Maximumsuche,95,4349,94
+Maximumsuche,96,4831,95
+Maximumsuche,97,4780,96
+Maximumsuche,98,4259,97
+Maximumsuche,99,4039,98
+Maximumsuche,100,5072,99
+Maximumsuche,101,4650,100
+Maximumsuche,102,24875,200
+Maximumsuche,103,9461,300
+Maximumsuche,104,7316,400
+Maximumsuche,105,3538,500
+Maximumsuche,106,4269,600
+Maximumsuche,107,4951,700
+Maximumsuche,108,4941,800
+Maximumsuche,109,5342,900
+Maximumsuche,110,5141,1000
+Maximumsuche,111,6013,1100
+Maximumsuche,112,7497,1200
+Maximumsuche,113,10874,1300
+Maximumsuche,114,6564,1400
+Maximumsuche,115,6875,1500
+Maximumsuche,116,7136,1600
+Maximumsuche,117,9491,1700
+Maximumsuche,118,10273,1800
+Maximumsuche,119,11274,1900
+Maximumsuche,120,10342,2000
+Maximumsuche,121,9431,2100
+Maximumsuche,122,16567,2200
+Maximumsuche,123,10474,2300
+Maximumsuche,124,13209,2400
+Maximumsuche,125,11456,2500
+Maximumsuche,126,13740,2600
+Maximumsuche,127,12107,2700
+Maximumsuche,128,11856,2800
+Maximumsuche,129,14552,2900
+Maximumsuche,130,14121,3000
+Maximumsuche,131,31399,3100
+Maximumsuche,132,14351,3200
+Maximumsuche,133,14472,3300
+Maximumsuche,134,19323,3400
+Maximumsuche,135,22359,3500
+Maximumsuche,136,16847,3600
+Maximumsuche,137,15464,3700
+Maximumsuche,138,16416,3800
+Maximumsuche,139,16025,3900
+Maximumsuche,140,16436,4000
+Maximumsuche,141,18150,4100
+Maximumsuche,142,17379,4200
+Maximumsuche,143,19313,4300
+Maximumsuche,144,19574,4400
+Maximumsuche,145,18381,4500
+Maximumsuche,146,19975,4600
+Maximumsuche,147,19142,4700
+Maximumsuche,148,20486,4800
+Maximumsuche,149,20184,4900
+Maximumsuche,150,21297,5000
+Maximumsuche,151,21728,5100
+Maximumsuche,152,21156,5200
+Maximumsuche,153,22530,5300
+Maximumsuche,154,22850,5400
+Maximumsuche,155,22359,5500
+Maximumsuche,156,23622,5600
+Maximumsuche,157,28383,5700
+Maximumsuche,158,23782,5800
+Maximumsuche,159,25075,5900
+Maximumsuche,160,25767,6000
+Maximumsuche,161,25537,6100
+Maximumsuche,162,24805,6200
+Maximumsuche,163,26218,6300
+Maximumsuche,164,49089,6400
+Maximumsuche,165,30096,6500
+Maximumsuche,166,26599,6600
+Maximumsuche,167,27832,6700
+Maximumsuche,168,28032,6800
+Maximumsuche,169,29345,6900
+Maximumsuche,170,29064,7000
+Maximumsuche,171,29796,7100
+Maximumsuche,172,29775,7200
+Maximumsuche,173,29365,7300
+Maximumsuche,174,30678,7400
+Maximumsuche,175,31159,7500
+Maximumsuche,176,50632,7600
+Maximumsuche,177,32021,7700
+Maximumsuche,178,32251,7800
+Maximumsuche,179,32672,7900
+Maximumsuche,180,33073,8000
+Maximumsuche,181,33454,8100
+Maximumsuche,182,33655,8200
+Maximumsuche,183,34556,8300
+Maximumsuche,184,34727,8400
+Maximumsuche,185,34677,8500
+Maximumsuche,186,35198,8600
+Maximumsuche,187,35469,8700
+Maximumsuche,188,35990,8800
+Maximumsuche,189,37052,8900
+Maximumsuche,190,37032,9000
+Maximumsuche,191,37713,9100
+Maximumsuche,192,37783,9200
+Maximumsuche,193,38204,9300
+Maximumsuche,194,39096,9400
+Maximumsuche,195,48868,9500
+Maximumsuche,196,39307,9600
+Maximumsuche,197,39929,9700
+Maximumsuche,198,40430,9800
+Maximumsuche,199,41322,9900
+Maximumsuche,200,63541,10000
+Maximumsuche,201,41201,10100
+Maximumsuche,202,41993,10200
+Maximumsuche,203,42023,10300
+Maximumsuche,204,43697,10400
+Maximumsuche,205,43526,10500
+Maximumsuche,206,43446,10600
+Maximumsuche,207,44158,10700
+Maximumsuche,208,43837,10800
+Maximumsuche,209,44649,10900
+Maximumsuche,210,70015,11000
+Maximumsuche,211,44989,11100
+Maximumsuche,212,73663,11200
+Maximumsuche,213,45922,11300
+Maximumsuche,214,46273,11400
+Maximumsuche,215,47455,11500
+Maximumsuche,216,72891,11600
+Maximumsuche,217,57687,11700
+Maximumsuche,218,49429,11800
+Maximumsuche,219,48828,11900
+Maximumsuche,220,48568,12000
+Maximumsuche,221,49349,12100
+Maximumsuche,222,49910,12200
+Maximumsuche,223,148659,12300
+Maximumsuche,224,86280,12400
+Maximumsuche,225,85709,12500
+Maximumsuche,226,95130,12600
+Maximumsuche,227,75186,12700
+Maximumsuche,228,78644,12800
+Maximumsuche,229,78373,12900
+Maximumsuche,230,82021,13000
+Maximumsuche,231,77361,13100
+Maximumsuche,232,78984,13200
+Maximumsuche,233,82041,13300
+Maximumsuche,234,78173,13400
+Maximumsuche,235,78904,13500
+Maximumsuche,236,77913,13600
+Maximumsuche,237,80628,13700
+Maximumsuche,238,97355,13800
+Maximumsuche,239,112138,13900
+Maximumsuche,240,84737,14000
+Maximumsuche,241,107698,14100
+Maximumsuche,242,119644,14200
+Maximumsuche,243,81350,14300
+Maximumsuche,244,76599,14400
+Maximumsuche,245,79265,14500
+Maximumsuche,246,80067,14600
+Maximumsuche,247,75798,14700
+Maximumsuche,248,77101,14800
+Maximumsuche,249,82151,14900
+Maximumsuche,250,99109,15000
+Maximumsuche,251,80477,15100
+Maximumsuche,252,81220,15200
+Maximumsuche,253,78905,15300
+Maximumsuche,254,12818,15400
+Maximumsuche,255,7616,15500
+Maximumsuche,256,10513,15600
+Maximumsuche,257,6525,15700
+Maximumsuche,258,8238,15800
+Maximumsuche,259,8880,15900
+Maximumsuche,260,12097,16000
+Maximumsuche,261,11676,16100
+Maximumsuche,262,36590,16200
+Maximumsuche,263,9170,16300
+Maximumsuche,264,9360,16400
+Maximumsuche,265,7827,16500
+Maximumsuche,266,8098,16600
+Maximumsuche,267,7807,16700
+Maximumsuche,268,7176,16800
+Maximumsuche,269,6855,16900
+Maximumsuche,270,8509,17000
+Maximumsuche,271,7777,17100
+Maximumsuche,272,11776,17200
+Maximumsuche,273,7246,17300
+Maximumsuche,274,8017,17400
+Maximumsuche,275,8429,17500
+Maximumsuche,276,7877,17600
+Maximumsuche,277,8309,17700
+Maximumsuche,278,7657,17800
+Maximumsuche,279,8960,17900
+Maximumsuche,280,7928,18000
+Maximumsuche,281,8098,18100
+Maximumsuche,282,12257,18200
+Maximumsuche,283,9441,18300
+Maximumsuche,284,8348,18400
+Maximumsuche,285,9170,18500
+Maximumsuche,286,7978,18600
+Maximumsuche,287,7376,18700
+Maximumsuche,288,9010,18800
+Maximumsuche,289,9551,18900
+Maximumsuche,290,8198,19000
+Maximumsuche,291,10703,19100
+Maximumsuche,292,10343,19200
+Maximumsuche,293,8569,19300
+Maximumsuche,294,8870,19400
+Maximumsuche,295,8098,19500
+Maximumsuche,296,13369,19600
+Maximumsuche,297,8078,19700
+Maximumsuche,298,7737,19800
+Maximumsuche,299,9932,19900
+Maximumsuche,300,9321,20000
+Maximumsuche,301,11926,20100
+Maximumsuche,302,10102,20200
+Maximumsuche,303,11095,20300
+Maximumsuche,304,17609,20400
+Maximumsuche,305,10584,20500
+Maximumsuche,306,12738,20600
+Maximumsuche,307,10222,20700
+Maximumsuche,308,12097,20800
+Maximumsuche,309,10523,20900
+Maximumsuche,310,11155,21000
+Maximumsuche,311,10433,21100
+Maximumsuche,312,9962,21200
+Maximumsuche,313,10122,21300
+Maximumsuche,314,10724,21400
+Maximumsuche,315,11094,21500
+Maximumsuche,316,11937,21600
+Maximumsuche,317,11626,21700
+Maximumsuche,318,10914,21800
+Maximumsuche,319,11746,21900
+Maximumsuche,320,10954,22000
+Maximumsuche,321,10794,22100
+Maximumsuche,322,11275,22200
+Maximumsuche,323,11445,22300
+Maximumsuche,324,12077,22400
+Maximumsuche,325,11325,22500
+Maximumsuche,326,10865,22600
+Maximumsuche,327,10102,22700
+Maximumsuche,328,17117,22800
+Maximumsuche,329,16577,22900
+Maximumsuche,330,11024,23000
+Maximumsuche,331,12458,23100
+Maximumsuche,332,12157,23200
+Maximumsuche,333,11025,23300
+Maximumsuche,334,11195,23400
+Maximumsuche,335,11485,23500
+Maximumsuche,336,15485,23600
+Maximumsuche,337,16717,23700
+Maximumsuche,338,13761,23800
+Maximumsuche,339,12608,23900
+Maximumsuche,340,11606,24000
+Maximumsuche,341,11406,24100
+Maximumsuche,342,12227,24200
+Maximumsuche,343,10954,24300
+Maximumsuche,344,17218,24400
+Maximumsuche,345,14111,24500
+Maximumsuche,346,12427,24600
+Maximumsuche,347,11866,24700
+Maximumsuche,348,12899,24800
+Maximumsuche,349,13189,24900
+Maximumsuche,350,12658,25000
+Maximumsuche,351,12447,25100
+Maximumsuche,352,12728,25200
+Maximumsuche,353,15084,25300
+Maximumsuche,354,12046,25400
+Maximumsuche,355,12788,25500
+Maximumsuche,356,14813,25600
+Maximumsuche,357,14983,25700
+Maximumsuche,358,15624,25800
+Maximumsuche,359,12608,25900
+Maximumsuche,360,14262,26000
+Maximumsuche,361,12498,26100
+Maximumsuche,362,12889,26200
+Maximumsuche,363,13740,26300
+Maximumsuche,364,13239,26400
+Maximumsuche,365,13661,26500
+Maximumsuche,366,12739,26600
+Maximumsuche,367,16156,26700
+Maximumsuche,368,14172,26800
+Maximumsuche,369,13029,26900
+Maximumsuche,370,12999,27000
+Maximumsuche,371,12508,27100
+Maximumsuche,372,13420,27200
+Maximumsuche,373,13740,27300
+Maximumsuche,374,26388,27400
+Maximumsuche,375,18932,27500
+Maximumsuche,376,15965,27600
+Maximumsuche,377,14202,27700
+Maximumsuche,378,14131,27800
+Maximumsuche,379,13810,27900
+Maximumsuche,380,14863,28000
+Maximumsuche,381,16938,28100
+Maximumsuche,382,15785,28200
+Maximumsuche,383,25446,28300
+Maximumsuche,384,19864,28400
+Maximumsuche,385,24634,28500
+Maximumsuche,386,41141,28600
+Maximumsuche,387,49639,28700
+Maximumsuche,388,16075,28800
+Maximumsuche,389,13580,28900
+Maximumsuche,390,22791,29000
+Maximumsuche,391,14592,29100
+Maximumsuche,392,18611,29200
+Maximumsuche,393,18711,29300
+Maximumsuche,394,15906,29400
+Maximumsuche,395,13810,29500
+Maximumsuche,396,14322,29600
+Maximumsuche,397,18400,29700
+Maximumsuche,398,24664,29800
+Maximumsuche,399,25346,29900
+Maximumsuche,400,24885,30000
+Maximumsuche,401,21357,30100
+Maximumsuche,402,16687,30200
+Maximumsuche,403,20274,30300
+Maximumsuche,404,17479,30400
+Maximumsuche,405,41592,30500
+Maximumsuche,406,19463,30600
+Maximumsuche,407,19282,30700
+Maximumsuche,408,18000,30800
+Maximumsuche,409,24224,30900
+Maximumsuche,410,20776,31000
+Maximumsuche,411,14632,31100
+Maximumsuche,412,15124,31200
+Maximumsuche,413,15505,31300
+Maximumsuche,414,23953,31400
+Maximumsuche,415,23182,31500
+Maximumsuche,416,19654,31600
+Maximumsuche,417,16576,31700
+Maximumsuche,418,27581,31800
+Maximumsuche,419,18190,31900
+Maximumsuche,420,18390,32000
+Maximumsuche,421,14192,32100
+Maximumsuche,422,15374,32200
+Maximumsuche,423,18070,32300
+Maximumsuche,424,19322,32400
+Maximumsuche,425,19694,32500
+Maximumsuche,426,19022,32600
+Maximumsuche,427,15795,32700
+Maximumsuche,428,20856,32800
+Maximumsuche,429,16918,32900
+Maximumsuche,430,19734,33000
+Maximumsuche,431,41492,33100
+Maximumsuche,432,15153,33200
+Maximumsuche,433,16656,33300
+Maximumsuche,434,19272,33400
+Maximumsuche,435,16105,33500
+Maximumsuche,436,16517,33600
+Maximumsuche,437,14722,33700
+Maximumsuche,438,40991,33800
+Maximumsuche,439,16948,33900
+Maximumsuche,440,19904,34000
+Maximumsuche,441,21077,34100
+Maximumsuche,442,20626,34200
+Maximumsuche,443,23111,34300
+Maximumsuche,444,29254,34400
+Maximumsuche,445,26669,34500
+Maximumsuche,446,21648,34600
+Maximumsuche,447,15143,34700
+Maximumsuche,448,18581,34800
+Maximumsuche,449,22229,34900
+Maximumsuche,450,20816,35000
+Maximumsuche,451,18641,35100
+Maximumsuche,452,16025,35200
+Maximumsuche,453,19704,35300
+Maximumsuche,454,18270,35400
+Maximumsuche,455,17549,35500
+Maximumsuche,456,25025,35600
+Maximumsuche,457,16997,35700
+Maximumsuche,458,31590,35800
+Maximumsuche,459,14662,35900
+Maximumsuche,460,20385,36000
+Maximumsuche,461,12799,36100
+Maximumsuche,462,13049,36200
+Maximumsuche,463,14953,36300
+Maximumsuche,464,22459,36400
+Maximumsuche,465,14913,36500
+Maximumsuche,466,24885,36600
+Maximumsuche,467,27682,36700
+Maximumsuche,468,25236,36800
+Maximumsuche,469,23131,36900
+Maximumsuche,470,31921,37000
+Maximumsuche,471,25527,37100
+Maximumsuche,472,21918,37200
+Maximumsuche,473,17809,37300
+Maximumsuche,474,27271,37400
+Maximumsuche,475,17850,37500
+Maximumsuche,476,17378,37600
+Maximumsuche,477,16577,37700
+Maximumsuche,478,40460,37800
+Maximumsuche,479,20104,37900
+Maximumsuche,480,19814,38000
+Maximumsuche,481,17128,38100
+Maximumsuche,482,23352,38200
+Maximumsuche,483,20555,38300
+Maximumsuche,484,17829,38400
+Maximumsuche,485,20345,38500
+Maximumsuche,486,19213,38600
+Maximumsuche,487,24454,38700
+Maximumsuche,488,18992,38800
+Maximumsuche,489,28072,38900
+Maximumsuche,490,25667,39000
+Maximumsuche,491,24735,39100
+Maximumsuche,492,19132,39200
+Maximumsuche,493,21247,39300
+Maximumsuche,494,121389,39400
+Maximumsuche,495,19774,39500
+Maximumsuche,496,29536,39600
+Maximumsuche,497,18921,39700
+Maximumsuche,498,22530,39800
+Maximumsuche,499,27311,39900
+Maximumsuche,500,39116,40000
+Maximumsuche,501,32402,40100
+Maximumsuche,502,25857,40200
+Maximumsuche,503,33535,40300
+Maximumsuche,504,18792,40400
+Maximumsuche,505,19012,40500
+Maximumsuche,506,21257,40600
+Maximumsuche,507,17298,40700
+Maximumsuche,508,21207,40800
+Maximumsuche,509,19664,40900
+Maximumsuche,510,23943,41000
+Maximumsuche,511,32692,41100
+Maximumsuche,512,27010,41200
+Maximumsuche,513,29465,41300
+Maximumsuche,514,20054,41400
+Maximumsuche,515,16537,41500
+Maximumsuche,516,21909,41600
+Maximumsuche,517,24324,41700
+Maximumsuche,518,45119,41800
+Maximumsuche,519,24564,41900
+Maximumsuche,520,15043,42000
+Maximumsuche,521,26408,42100
+Maximumsuche,522,21437,42200
+Maximumsuche,523,24023,42300
+Maximumsuche,524,35949,42400
+Maximumsuche,525,39508,42500
+Maximumsuche,526,24996,42600
+Maximumsuche,527,22539,42700
+Maximumsuche,528,24975,42800
+Maximumsuche,529,25516,42900
+Maximumsuche,530,23371,43000
+Maximumsuche,531,22490,43100
+Maximumsuche,532,18231,43200
+Maximumsuche,533,30648,43300
+Maximumsuche,534,18220,43400
+Maximumsuche,535,18421,43500
+Maximumsuche,536,22470,43600
+Maximumsuche,537,19403,43700
+Maximumsuche,538,20956,43800
+Maximumsuche,539,28332,43900
+Maximumsuche,540,29024,44000
+Maximumsuche,541,29846,44100
+Maximumsuche,542,19543,44200
+Maximumsuche,543,18851,44300
+Maximumsuche,544,17679,44400
+Maximumsuche,545,28744,44500
+Maximumsuche,546,23642,44600
+Maximumsuche,547,28493,44700
+Maximumsuche,548,26158,44800
+Maximumsuche,549,28884,44900
+Maximumsuche,550,20365,45000
+Maximumsuche,551,20987,45100
+Maximumsuche,552,59362,45200
+Maximumsuche,553,20294,45300
+Maximumsuche,554,38455,45400
+Maximumsuche,555,29285,45500
+Maximumsuche,556,24925,45600
+Maximumsuche,557,22480,45700
+Maximumsuche,558,29926,45800
+Maximumsuche,559,29816,45900
+Maximumsuche,560,29775,46000
+Maximumsuche,561,29015,46100
+Maximumsuche,562,22280,46200
+Maximumsuche,563,24444,46300
+Maximumsuche,564,21367,46400
+Maximumsuche,565,20345,46500
+Maximumsuche,566,21608,46600
+Maximumsuche,567,26107,46700
+Maximumsuche,568,19303,46800
+Maximumsuche,569,20345,46900
+Maximumsuche,570,21227,47000
+Maximumsuche,571,22711,47100
+Maximumsuche,572,26038,47200
+Maximumsuche,573,36271,47300
+Maximumsuche,574,33724,47400
+Maximumsuche,575,36892,47500
+Maximumsuche,576,34256,47600
+Maximumsuche,577,43737,47700
+Maximumsuche,578,22560,47800
+Maximumsuche,579,23903,47900
+Maximumsuche,580,19894,48000
+Maximumsuche,581,27571,48100
+Maximumsuche,582,23552,48200
+Maximumsuche,583,21568,48300
+Maximumsuche,584,22359,48400
+Maximumsuche,585,23382,48500
+Maximumsuche,586,19964,48600
+Maximumsuche,587,35749,48700
+Maximumsuche,588,23742,48800
+Maximumsuche,589,25466,48900
+Maximumsuche,590,32722,49000
+Maximumsuche,591,23141,49100
+Maximumsuche,592,21358,49200
+Maximumsuche,593,24314,49300
+Maximumsuche,594,26789,49400
+Maximumsuche,595,20165,49500
+Maximumsuche,596,24815,49600
+Maximumsuche,597,30076,49700
+Maximumsuche,598,20145,49800
+Maximumsuche,599,52075,49900
+Maximumsuche,600,34817,50000
+Maximumsuche,601,43406,50100
+Maximumsuche,602,21478,50200
+Maximumsuche,603,21247,50300
+Maximumsuche,604,23722,50400
+Maximumsuche,605,25185,50500
+Maximumsuche,606,25396,50600
+Maximumsuche,607,23482,50700
+Maximumsuche,608,27461,50800
+Maximumsuche,609,31068,50900
+Maximumsuche,610,29325,51000
+Maximumsuche,611,21298,51100
+Maximumsuche,612,33394,51200
+Maximumsuche,613,22530,51300
+Maximumsuche,614,20074,51400
+Maximumsuche,615,20375,51500
+Maximumsuche,616,26318,51600
+Maximumsuche,617,27742,51700
+Maximumsuche,618,26699,51800
+Maximumsuche,619,43316,51900
+Maximumsuche,620,20224,52000
+Maximumsuche,621,20285,52100
+Maximumsuche,622,22891,52200
+Maximumsuche,623,20545,52300
+Maximumsuche,624,61576,52400
+Maximumsuche,625,28182,52500
+Maximumsuche,626,22259,52600
+Maximumsuche,627,22209,52700
+Maximumsuche,628,27511,52800
+Maximumsuche,629,33574,52900
+Maximumsuche,630,23081,53000
+Maximumsuche,631,24955,53100
+Maximumsuche,632,24164,53200
+Maximumsuche,633,23532,53300
+Maximumsuche,634,20465,53400
+Maximumsuche,635,23622,53500
+Maximumsuche,636,31440,53600
+Maximumsuche,637,20966,53700
+Maximumsuche,638,22540,53800
+Maximumsuche,639,23271,53900
+Maximumsuche,640,21036,54000
+Maximumsuche,641,45741,54100
+Maximumsuche,642,23141,54200
+Maximumsuche,643,24003,54300
+Maximumsuche,644,27751,54400
+Maximumsuche,645,38916,54500
+Maximumsuche,646,31499,54600
+Maximumsuche,647,28132,54700
+Maximumsuche,648,51173,54800
+Maximumsuche,649,41933,54900
+Maximumsuche,650,45360,55000
+Maximumsuche,651,29596,55100
+Maximumsuche,652,40629,55200
+Maximumsuche,653,24624,55300
+Maximumsuche,654,22289,55400
+Maximumsuche,655,29766,55500
+Maximumsuche,656,26950,55600
+Maximumsuche,657,22600,55700
+Maximumsuche,658,23182,55800
+Maximumsuche,659,38775,55900
+Maximumsuche,660,36461,56000
+Maximumsuche,661,20886,56100
+Maximumsuche,662,49169,56200
+Maximumsuche,663,60624,56300
+Maximumsuche,664,27400,56400
+Maximumsuche,665,28223,56500
+Maximumsuche,666,65455,56600
+Maximumsuche,667,51294,56700
+Maximumsuche,668,41191,56800
+Maximumsuche,669,43235,56900
+Maximumsuche,670,43567,57000
+Maximumsuche,671,87002,57100
+Maximumsuche,672,52737,57200
+Maximumsuche,673,43827,57300
+Maximumsuche,674,40369,57400
+Maximumsuche,675,69794,57500
+Maximumsuche,676,28864,57600
+Maximumsuche,677,74755,57700
+Maximumsuche,678,66136,57800
+Maximumsuche,679,27220,57900
+Maximumsuche,680,79185,58000
+Maximumsuche,681,27842,58100
+Maximumsuche,682,26408,58200
+Maximumsuche,683,32913,58300
+Maximumsuche,684,27070,58400
+Maximumsuche,685,35258,58500
+Maximumsuche,686,38616,58600
+Maximumsuche,687,25236,58700
+Maximumsuche,688,42374,58800
+Maximumsuche,689,29966,58900
+Maximumsuche,690,22630,59000
+Maximumsuche,691,34607,59100
+Maximumsuche,692,101695,59200
+Maximumsuche,693,44077,59300
+Maximumsuche,694,35789,59400
+Maximumsuche,695,22650,59500
+Maximumsuche,696,27681,59600
+Maximumsuche,697,24144,59700
+Maximumsuche,698,36561,59800
+Maximumsuche,699,40600,59900
+Maximumsuche,700,46643,60000
+Maximumsuche,701,27501,60100
+Maximumsuche,702,37012,60200
+Maximumsuche,703,24193,60300
+Maximumsuche,704,36220,60400
+Maximumsuche,705,23993,60500
+Maximumsuche,706,37613,60600
+Maximumsuche,707,59702,60700
+Maximumsuche,708,32021,60800
+Maximumsuche,709,30618,60900
+Maximumsuche,710,28854,61000
+Maximumsuche,711,26348,61100
+Maximumsuche,712,41432,61200
+Maximumsuche,713,45771,61300
+Maximumsuche,714,39016,61400
+Maximumsuche,715,61776,61500
+Maximumsuche,716,51985,61600
+Maximumsuche,717,42013,61700
+Maximumsuche,718,48427,61800
+Maximumsuche,719,31319,61900
+Maximumsuche,720,50863,62000
+Maximumsuche,721,45971,62100
+Maximumsuche,722,31540,62200
+Maximumsuche,723,31420,62300
+Maximumsuche,724,34767,62400
+Maximumsuche,725,44699,62500
+Maximumsuche,726,75356,62600
+Maximumsuche,727,49038,62700
+Maximumsuche,728,27180,62800
+Maximumsuche,729,59432,62900
+Maximumsuche,730,23582,63000
+Maximumsuche,731,34627,63100
+Maximumsuche,732,27461,63200
+Maximumsuche,733,49840,63300
+Maximumsuche,734,40991,63400
+Maximumsuche,735,66096,63500
+Maximumsuche,736,53328,63600
+Maximumsuche,737,53057,63700
+Maximumsuche,738,30818,63800
+Maximumsuche,739,50271,63900
+Maximumsuche,740,25516,64000
+Maximumsuche,741,32552,64100
+Maximumsuche,742,43175,64200
+Maximumsuche,743,26328,64300
+Maximumsuche,744,36311,64400
+Maximumsuche,745,47455,64500
+Maximumsuche,746,28924,64600
+Maximumsuche,747,56976,64700
+Maximumsuche,748,76519,64800
+Maximumsuche,749,28162,64900
+Maximumsuche,750,34045,65000
+Maximumsuche,751,36921,65100
+Maximumsuche,752,30557,65200
+Maximumsuche,753,64432,65300
+Maximumsuche,754,50973,65400
+Maximumsuche,755,87393,65500
+Maximumsuche,756,75447,65600
+Maximumsuche,757,40901,65700
+Maximumsuche,758,28402,65800
+Maximumsuche,759,27852,65900
+Maximumsuche,760,45360,66000
+Maximumsuche,761,29775,66100
+Maximumsuche,762,52657,66200
+Maximumsuche,763,53698,66300
+Maximumsuche,764,33273,66400
+Maximumsuche,765,40249,66500
+Maximumsuche,766,44829,66600
+Maximumsuche,767,29415,66700
+Maximumsuche,768,50652,66800
+Maximumsuche,769,22430,66900
+Maximumsuche,770,49459,67000
+Maximumsuche,771,83575,67100
+Maximumsuche,772,125939,67200
+Maximumsuche,773,141723,67300
+Maximumsuche,774,41451,67400
+Maximumsuche,775,66878,67500
+Maximumsuche,776,49259,67600
+Maximumsuche,777,34436,67700
+Maximumsuche,778,48898,67800
+Maximumsuche,779,70145,67900
+Maximumsuche,780,58199,68000
+Maximumsuche,781,95541,68100
+Maximumsuche,782,22971,68200
+Maximumsuche,783,27551,68300
+Maximumsuche,784,69303,68400
+Maximumsuche,785,65695,68500
+Maximumsuche,786,58769,68600
+Maximumsuche,787,55112,68700
+Maximumsuche,788,41562,68800
+Maximumsuche,789,61957,68900
+Maximumsuche,790,24344,69000
+Maximumsuche,791,31229,69100
+Maximumsuche,792,109482,69200
+Maximumsuche,793,42654,69300
+Maximumsuche,794,28463,69400
+Maximumsuche,795,27992,69500
+Maximumsuche,796,35148,69600
+Maximumsuche,797,43556,69700
+Maximumsuche,798,60553,69800
+Maximumsuche,799,33273,69900
+Maximumsuche,800,28653,70000
+Maximumsuche,801,48066,70100
+Maximumsuche,802,59772,70200
+Maximumsuche,803,40901,70300
+Maximumsuche,804,63962,70400
+Maximumsuche,805,25226,70500
+Maximumsuche,806,41411,70600
+Maximumsuche,807,26258,70700
+Maximumsuche,808,25105,70800
+Maximumsuche,809,38234,70900
+Maximumsuche,810,113350,71000
+Maximumsuche,811,30417,71100
+Maximumsuche,812,27451,71200
+Maximumsuche,813,119344,71300
+Maximumsuche,814,122350,71400
+Maximumsuche,815,169324,71500
+Maximumsuche,816,104341,71600
+Maximumsuche,817,102907,71700
+Maximumsuche,818,127282,71800
+Maximumsuche,819,133966,71900
+Maximumsuche,820,100723,72000
+Maximumsuche,821,41682,72100
+Maximumsuche,822,69293,72200
+Maximumsuche,823,31780,72300
+Maximumsuche,824,39036,72400
+Maximumsuche,825,37463,72500
+Maximumsuche,826,28693,72600
+Maximumsuche,827,52346,72700
+Maximumsuche,828,75096,72800
+Maximumsuche,829,54981,72900
+Maximumsuche,830,43406,73000
+Maximumsuche,831,44869,73100
+Maximumsuche,832,68080,73200
+Maximumsuche,833,61375,73300
+Maximumsuche,834,31450,73400
+Maximumsuche,835,99631,73500
+Maximumsuche,836,58439,73600
+Maximumsuche,837,26779,73700
+Maximumsuche,838,27771,73800
+Maximumsuche,839,31790,73900
+Maximumsuche,840,26519,74000
+Maximumsuche,841,51914,74100
+Maximumsuche,842,70335,74200
+Maximumsuche,843,48046,74300
+Maximumsuche,844,45059,74400
+Maximumsuche,845,26428,74500
+Maximumsuche,846,44849,74600
+Maximumsuche,847,27551,74700
+Maximumsuche,848,40129,74800
+Maximumsuche,849,25646,74900
+Maximumsuche,850,26899,75000
+Maximumsuche,851,37523,75100
+Maximumsuche,852,44629,75200
+Maximumsuche,853,44829,75300
+Maximumsuche,854,46904,75400
+Maximumsuche,855,37082,75500
+Maximumsuche,856,28193,75600
+Maximumsuche,857,47575,75700
+Maximumsuche,858,48046,75800
+Maximumsuche,859,117920,75900
+Maximumsuche,860,123513,76000
+Maximumsuche,861,41301,76100
+Maximumsuche,862,59211,76200
+Maximumsuche,863,39126,76300
+Maximumsuche,864,29696,76400
+Maximumsuche,865,45871,76500
+Maximumsuche,866,47295,76600
+Maximumsuche,867,63259,76700
+Maximumsuche,868,33183,76800
+Maximumsuche,869,27140,76900
+Maximumsuche,870,42704,77000
+Maximumsuche,871,49369,77100
+Maximumsuche,872,46763,77200
+Maximumsuche,873,26208,77300
+Maximumsuche,874,41271,77400
+Maximumsuche,875,37823,77500
+Maximumsuche,876,46363,77600
+Maximumsuche,877,125838,77700
+Maximumsuche,878,40169,77800
+Maximumsuche,879,81139,77900
+Maximumsuche,880,95802,78000
+Maximumsuche,881,61686,78100
+Maximumsuche,882,79927,78200
+Maximumsuche,883,32773,78300
+Maximumsuche,884,36050,78400
+Maximumsuche,885,55734,78500
+Maximumsuche,886,37393,78600
+Maximumsuche,887,140220,78700
+Maximumsuche,888,67981,78800
+Maximumsuche,889,83395,78900
+Maximumsuche,890,39417,79000
+Maximumsuche,891,74124,79100
+Maximumsuche,892,99379,79200
+Maximumsuche,893,45380,79300
+Maximumsuche,894,48016,79400
+Maximumsuche,895,92174,79500
+Maximumsuche,896,47425,79600
+Maximumsuche,897,56665,79700
+Maximumsuche,898,73042,79800
+Maximumsuche,899,39046,79900
+Maximumsuche,900,95491,80000
+Maximumsuche,901,36611,80100
+Maximumsuche,902,36210,80200
+Maximumsuche,903,67830,80300
+Maximumsuche,904,57236,80400
+Maximumsuche,905,77271,80500
+Maximumsuche,906,31970,80600
+Maximumsuche,907,81500,80700
+Maximumsuche,908,123794,80800
+Maximumsuche,909,70987,80900
+Maximumsuche,910,66807,81000
+Maximumsuche,911,59642,81100
+Maximumsuche,912,82983,81200
+Maximumsuche,913,68752,81300
+Maximumsuche,914,75998,81400
+Maximumsuche,915,85660,81500
+Maximumsuche,916,77311,81600
+Maximumsuche,917,55272,81700
+Maximumsuche,918,90229,81800
+Maximumsuche,919,72681,81900
+Maximumsuche,920,71929,82000
+Maximumsuche,921,82282,82100
+Maximumsuche,922,39868,82200
+Maximumsuche,923,126049,82300
+Maximumsuche,924,113631,82400
+Maximumsuche,925,77401,82500
+Maximumsuche,926,80067,82600
+Maximumsuche,927,68852,82700
+Maximumsuche,928,82963,82800
+Maximumsuche,929,46523,82900
+Maximumsuche,930,107508,83000
+Maximumsuche,931,72932,83100
+Maximumsuche,932,84968,83200
+Maximumsuche,933,103429,83300
+Maximumsuche,934,37743,83400
+Maximumsuche,935,66978,83500
+Maximumsuche,936,47565,83600
+Maximumsuche,937,100573,83700
+Maximumsuche,938,64653,83800
+Maximumsuche,939,81220,83900
+Maximumsuche,940,61216,84000
+Maximumsuche,941,35759,84100
+Maximumsuche,942,58629,84200
+Maximumsuche,943,37703,84300
+Maximumsuche,944,95220,84400
+Maximumsuche,945,51464,84500
+Maximumsuche,946,79977,84600
+Maximumsuche,947,94329,84700
+Maximumsuche,948,43796,84800
+Maximumsuche,949,118552,84900
+Maximumsuche,950,51754,85000
+Maximumsuche,951,87173,85100
+Maximumsuche,952,69394,85200
+Maximumsuche,953,41351,85300
+Maximumsuche,954,47595,85400
+Maximumsuche,955,89949,85500
+Maximumsuche,956,37734,85600
+Maximumsuche,957,89087,85700
+Maximumsuche,958,45470,85800
+Maximumsuche,959,83354,85900
+Maximumsuche,960,98839,86000
+Maximumsuche,961,78313,86100
+Maximumsuche,962,80708,86200
+Maximumsuche,963,89568,86300
+Maximumsuche,964,69824,86400
+Maximumsuche,965,85038,86500
+Maximumsuche,966,128685,86600
+Maximumsuche,967,40760,86700
+Maximumsuche,968,152657,86800
+Maximumsuche,969,73282,86900
+Maximumsuche,970,41702,87000
+Maximumsuche,971,35328,87100
+Maximumsuche,972,121639,87200
+Maximumsuche,973,46924,87300
+Maximumsuche,974,111517,87400
+Maximumsuche,975,57708,87500
+Maximumsuche,976,92023,87600
+Maximumsuche,977,85429,87700
+Maximumsuche,978,89548,87800
+Maximumsuche,979,41281,87900
+Maximumsuche,980,60313,88000
+Maximumsuche,981,62549,88100
+Maximumsuche,982,76560,88200
+Maximumsuche,983,107928,88300
+Maximumsuche,984,55843,88400
+Maximumsuche,985,78855,88500
+Maximumsuche,986,38776,88600
+Maximumsuche,987,50060,88700
+Maximumsuche,988,46252,88800
+Maximumsuche,989,34096,88900
+Maximumsuche,990,83665,89000
+Maximumsuche,991,62759,89100
+Maximumsuche,992,72220,89200
+Maximumsuche,993,37252,89300
+Maximumsuche,994,86200,89400
+Maximumsuche,995,71809,89500
+Maximumsuche,996,38225,89600
+Maximumsuche,997,37272,89700
+Maximumsuche,998,104861,89800
+Maximumsuche,999,110915,89900
+Maximumsuche,1000,54310,90000
+Maximumsuche,1001,71288,90100
+Maximumsuche,1002,80297,90200
+Maximumsuche,1003,90851,90300
+Maximumsuche,1004,83415,90400
+Maximumsuche,1005,42865,90500
+Maximumsuche,1006,42865,90600
+Maximumsuche,1007,72690,90700
+Maximumsuche,1008,35599,90800
+Maximumsuche,1009,68692,90900
+Maximumsuche,1010,38806,91000
+Maximumsuche,1011,48186,91100
+Maximumsuche,1012,52445,91200
+Maximumsuche,1013,145722,91300
+Maximumsuche,1014,63421,91400
+Maximumsuche,1015,82813,91500
+Maximumsuche,1016,62718,91600
+Maximumsuche,1017,89799,91700
+Maximumsuche,1018,61456,91800
+Maximumsuche,1019,40991,91900
+Maximumsuche,1020,81840,92000
+Maximumsuche,1021,35850,92100
+Maximumsuche,1022,51243,92200
+Maximumsuche,1023,62468,92300
+Maximumsuche,1024,96453,92400
+Maximumsuche,1025,109983,92500
+Maximumsuche,1026,112108,92600
+Maximumsuche,1027,120286,92700
+Maximumsuche,1028,128463,92800
+Maximumsuche,1029,72460,92900
+Maximumsuche,1030,46313,93000
+Maximumsuche,1031,99720,93100
+Maximumsuche,1032,82352,93200
+Maximumsuche,1033,72431,93300
+Maximumsuche,1034,101464,93400
+Maximumsuche,1035,44709,93500
+Maximumsuche,1036,78804,93600
+Maximumsuche,1037,79896,93700
+Maximumsuche,1038,66016,93800
+Maximumsuche,1039,92133,93900
+Maximumsuche,1040,73292,94000
+Maximumsuche,1041,90820,94100
+Maximumsuche,1042,139649,94200
+Maximumsuche,1043,78453,94300
+Maximumsuche,1044,81470,94400
+Maximumsuche,1045,65895,94500
+Maximumsuche,1046,40881,94600
+Maximumsuche,1047,83975,94700
+Maximumsuche,1048,82482,94800
+Maximumsuche,1049,93066,94900
+Maximumsuche,1050,35368,95000
+Maximumsuche,1051,70216,95100
+Maximumsuche,1052,35819,95200
+Maximumsuche,1053,77852,95300
+Maximumsuche,1054,77462,95400
+Maximumsuche,1055,103018,95500
+Maximumsuche,1056,51854,95600
+Maximumsuche,1057,66517,95700
+Maximumsuche,1058,47234,95800
+Maximumsuche,1059,115585,95900
+Maximumsuche,1060,46934,96000
+Maximumsuche,1061,46182,96100
+Maximumsuche,1062,108019,96200
+Maximumsuche,1063,77672,96300
+Maximumsuche,1064,110966,96400
+Maximumsuche,1065,101574,96500
+Maximumsuche,1066,105814,96600
+Maximumsuche,1067,95621,96700
+Maximumsuche,1068,52436,96800
+Maximumsuche,1069,103790,96900
+Maximumsuche,1070,117299,97000
+Maximumsuche,1071,58560,97100
+Maximumsuche,1072,119474,97200
+Maximumsuche,1073,87043,97300
+Maximumsuche,1074,64442,97400
+Maximumsuche,1075,64372,97500
+Maximumsuche,1076,44609,97600
+Maximumsuche,1077,87664,97700
+Maximumsuche,1078,122220,97800
+Maximumsuche,1079,160394,97900
+Maximumsuche,1080,94098,98000
+Maximumsuche,1081,47244,98100
+Maximumsuche,1082,128463,98200
+Maximumsuche,1083,60764,98300
+Maximumsuche,1084,126710,98400
+Maximumsuche,1085,96463,98500
+Maximumsuche,1086,155924,98600
+Maximumsuche,1087,116688,98700
+Maximumsuche,1088,42675,98800
+Maximumsuche,1089,118923,98900
+Maximumsuche,1090,40249,99000
+Maximumsuche,1091,77261,99100
+Maximumsuche,1092,112268,99200
+Maximumsuche,1093,42574,99300
+Maximumsuche,1094,37633,99400
+Maximumsuche,1095,73713,99500
+Maximumsuche,1096,144239,99600
+Maximumsuche,1097,109472,99700
+Maximumsuche,1098,107918,99800
+Maximumsuche,1099,133365,99900
+Maximumsuche,1100,98097,100000
+Maximumsuche,1101,121028,100100
+Maximumsuche,1102,161227,100200
+Maximumsuche,1103,45661,100300
+Maximumsuche,1104,133535,100400
+Maximumsuche,1105,49249,100500
+Maximumsuche,1106,41652,100600
+Maximumsuche,1107,55813,100700
+Maximumsuche,1108,60423,100800
+Maximumsuche,1109,114142,100900
+Maximumsuche,1110,111717,101000
+Maximumsuche,1111,124706,101100
+Maximumsuche,1112,110645,101200
+Maximumsuche,1113,92644,101300
+Maximumsuche,1114,154752,101400
+Maximumsuche,1115,53679,101500
+Maximumsuche,1116,44649,101600
+Maximumsuche,1117,130479,101700
+Maximumsuche,1118,109292,101800
+Maximumsuche,1119,141253,101900
+Maximumsuche,1120,167049,102000
+Maximumsuche,1121,63139,102100
+Maximumsuche,1122,114894,102200
+Maximumsuche,1123,112298,102300
+Maximumsuche,1124,55493,102400
+Maximumsuche,1125,134728,102500
+Maximumsuche,1126,149290,102600
+Maximumsuche,1127,177843,102700
+Maximumsuche,1128,122671,102800
+Maximumsuche,1129,147546,102900
+Maximumsuche,1130,165245,103000
+Maximumsuche,1131,144429,103100
+Maximumsuche,1132,207007,103200
+Maximumsuche,1133,133204,103300
+Maximumsuche,1134,43315,103400
+Maximumsuche,1135,50472,103500
+Maximumsuche,1136,139508,103600
+Maximumsuche,1137,159973,103700
+Maximumsuche,1138,163331,103800
+Maximumsuche,1139,168993,103900
+Maximumsuche,1140,127632,104000
+Maximumsuche,1141,116728,104100
+Maximumsuche,1142,152758,104200
+Maximumsuche,1143,117459,104300
+Maximumsuche,1144,122070,104400
+Maximumsuche,1145,112599,104500
+Maximumsuche,1146,84748,104600
+Maximumsuche,1147,108820,104700
+Maximumsuche,1148,120526,104800
+Maximumsuche,1149,61716,104900
+Maximumsuche,1150,51774,105000
+Maximumsuche,1151,89598,105100
+Maximumsuche,1152,109282,105200
+Maximumsuche,1153,105854,105300
+Maximumsuche,1154,71528,105400
+Maximumsuche,1155,44338,105500
+Maximumsuche,1156,92644,105600
+Maximumsuche,1157,150373,105700
+Maximumsuche,1158,47425,105800
+Maximumsuche,1159,47695,105900
+Maximumsuche,1160,124896,106000
+Maximumsuche,1161,68882,106100
+Maximumsuche,1162,45070,106200
+Maximumsuche,1163,115916,106300
+Maximumsuche,1164,124835,106400
+Maximumsuche,1165,97816,106500
+Maximumsuche,1166,51534,106600
+Maximumsuche,1167,100001,106700
+Maximumsuche,1168,118372,106800
+Maximumsuche,1169,106545,106900
+Maximumsuche,1170,60603,107000
+Maximumsuche,1171,60093,107100
+Maximumsuche,1172,49830,107200
+Maximumsuche,1173,93798,107300
+Maximumsuche,1174,48437,107400
+Maximumsuche,1175,41201,107500
+Maximumsuche,1176,108039,107600
+Maximumsuche,1177,105483,107700
+Maximumsuche,1178,162580,107800
+Maximumsuche,1179,133435,107900
+Maximumsuche,1180,94458,108000
+Maximumsuche,1181,44579,108100
+Maximumsuche,1182,109973,108200
+Maximumsuche,1183,152286,108300
+Maximumsuche,1184,118341,108400
+Maximumsuche,1185,47485,108500
+Maximumsuche,1186,125277,108600
+Maximumsuche,1187,67169,108700
+Maximumsuche,1188,51313,108800
+Maximumsuche,1189,65435,108900
+Maximumsuche,1190,100873,109000
+Maximumsuche,1191,116077,109100
+Maximumsuche,1192,130869,109200
+Maximumsuche,1193,95621,109300
+Maximumsuche,1194,100722,109400
+Maximumsuche,1195,80708,109500
+Maximumsuche,1196,131009,109600
+Maximumsuche,1197,168943,109700
+Maximumsuche,1198,54300,109800
+Maximumsuche,1199,143316,109900
+Maximumsuche,1200,94820,110000
+Maximumsuche,1201,98377,110100
+Maximumsuche,1202,105072,110200
+Maximumsuche,1203,103729,110300
+Maximumsuche,1204,110424,110400
+Maximumsuche,1205,123443,110500
+Maximumsuche,1206,137213,110600
+Maximumsuche,1207,139338,110700
+Maximumsuche,1208,161787,110800
+Maximumsuche,1209,66608,110900
+Maximumsuche,1210,159692,111000
+Maximumsuche,1211,53028,111100
+Maximumsuche,1212,136762,111200
+Maximumsuche,1213,51464,111300
+Maximumsuche,1214,140501,111400
+Maximumsuche,1215,232724,111500
+Maximumsuche,1216,102386,111600
+Maximumsuche,1217,90460,111700
+Maximumsuche,1218,64593,111800
+Maximumsuche,1219,120636,111900
+Maximumsuche,1220,134758,112000
+Maximumsuche,1221,163050,112100
+Maximumsuche,1222,128794,112200
+Maximumsuche,1223,93948,112300
+Maximumsuche,1224,153499,112400
+Maximumsuche,1225,154531,112500
+Maximumsuche,1226,106205,112600
+Maximumsuche,1227,69644,112700
+Maximumsuche,1228,152797,112800
+Maximumsuche,1229,109252,112900
+Maximumsuche,1230,145231,113000
+Maximumsuche,1231,92885,113100
+Maximumsuche,1232,138726,113200
+Maximumsuche,1233,104201,113300
+Maximumsuche,1234,143156,113400
+Maximumsuche,1235,53117,113500
+Maximumsuche,1236,52316,113600
+Maximumsuche,1237,160194,113700
+Maximumsuche,1238,129477,113800
+Maximumsuche,1239,148809,113900
+Maximumsuche,1240,170587,114000
+Maximumsuche,1241,106656,114100
+Maximumsuche,1242,55052,114200
+Maximumsuche,1243,56434,114300
+Maximumsuche,1244,148859,114400
+Maximumsuche,1245,70817,114500
+Maximumsuche,1246,182212,114600
+Maximumsuche,1247,52256,114700
+Maximumsuche,1248,160544,114800
+Maximumsuche,1249,67660,114900
+Maximumsuche,1250,56545,115000
+Maximumsuche,1251,137284,115100
+Maximumsuche,1252,192064,115200
+Maximumsuche,1253,143948,115300
+Maximumsuche,1254,150813,115400
+Maximumsuche,1255,131290,115500
+Maximumsuche,1256,119313,115600
+Maximumsuche,1257,149731,115700
+Maximumsuche,1258,130950,115800
+Maximumsuche,1259,72249,115900
+Maximumsuche,1260,98127,116000
+Maximumsuche,1261,49119,116100
+Maximumsuche,1262,117781,116200
+Maximumsuche,1263,112128,116300
+Maximumsuche,1264,135259,116400
+Maximumsuche,1265,47826,116500
+Maximumsuche,1266,61085,116600
+Maximumsuche,1267,63059,116700
+Maximumsuche,1268,133665,116800
+Maximumsuche,1269,130368,116900
+Maximumsuche,1270,137584,117000
+Maximumsuche,1271,157548,117100
+Maximumsuche,1272,140561,117200
+Maximumsuche,1273,52866,117300
+Maximumsuche,1274,132864,117400
+Maximumsuche,1275,138095,117500
+Maximumsuche,1276,113912,117600
+Maximumsuche,1277,49389,117700
+Maximumsuche,1278,171279,117800
+Maximumsuche,1279,166809,117900
+Maximumsuche,1280,158520,118000
+Maximumsuche,1281,124124,118100
+Maximumsuche,1282,156676,118200
+Maximumsuche,1283,133885,118300
+Maximumsuche,1284,88666,118400
+Maximumsuche,1285,130268,118500
+Maximumsuche,1286,53398,118600
+Maximumsuche,1287,125076,118700
+Maximumsuche,1288,135259,118800
+Maximumsuche,1289,119956,118900
+Maximumsuche,1290,149851,119000
+Maximumsuche,1291,61606,119100
+Maximumsuche,1292,163211,119200
+Maximumsuche,1293,60614,119300
+Maximumsuche,1294,169435,119400
+Maximumsuche,1295,153670,119500
+Maximumsuche,1296,140120,119600
+Maximumsuche,1297,50512,119700
+Maximumsuche,1298,52847,119800
+Maximumsuche,1299,158640,119900
+Maximumsuche,1300,169525,120000
+Maximumsuche,1301,169143,120100
+Maximumsuche,1302,175619,120200
+Maximumsuche,1303,195351,120300
+Maximumsuche,1304,156045,120400
+Maximumsuche,1305,118903,120500
+Maximumsuche,1306,61065,120600
+Maximumsuche,1307,119504,120700
+Maximumsuche,1308,52446,120800
+Maximumsuche,1309,132623,120900
+Maximumsuche,1310,119103,121000
+Maximumsuche,1311,81109,121100
+Maximumsuche,1312,104782,121200
+Maximumsuche,1313,54470,121300
+Maximumsuche,1314,144630,121400
+Maximumsuche,1315,159472,121500
+Maximumsuche,1316,172451,121600
+Maximumsuche,1317,118672,121700
+Maximumsuche,1318,61727,121800
+Maximumsuche,1319,122922,121900
+Maximumsuche,1320,182874,122000
+Maximumsuche,1321,128594,122100
+Maximumsuche,1322,179897,122200
+Maximumsuche,1323,120266,122300
+Maximumsuche,1324,63881,122400
+Maximumsuche,1325,137584,122500
+Maximumsuche,1326,146484,122600
+Maximumsuche,1327,126650,122700
+Maximumsuche,1328,115536,122800
+Maximumsuche,1329,62839,122900
+Maximumsuche,1330,134357,123000
+Maximumsuche,1331,56575,123100
+Maximumsuche,1332,52035,123200
+Maximumsuche,1333,54781,123300
+Maximumsuche,1334,73101,123400
+Maximumsuche,1335,124345,123500
+Maximumsuche,1336,65685,123600
+Maximumsuche,1337,53638,123700
+Maximumsuche,1338,127161,123800
+Maximumsuche,1339,119494,123900
+Maximumsuche,1340,150532,124000
+Maximumsuche,1341,135981,124100
+Maximumsuche,1342,135931,124200
+Maximumsuche,1343,123102,124300
+Maximumsuche,1344,68452,124400
+Maximumsuche,1345,151284,124500
+Maximumsuche,1346,66407,124600
+Maximumsuche,1347,133555,124700
+Maximumsuche,1348,150012,124800
+Maximumsuche,1349,154802,124900
+Maximumsuche,1350,132392,125000
+Maximumsuche,1351,58279,125100
+Maximumsuche,1352,121197,125200
+Maximumsuche,1353,141784,125300
+Maximumsuche,1354,147946,125400
+Maximumsuche,1355,132403,125500
+Maximumsuche,1356,148488,125600
+Maximumsuche,1357,165877,125700
+Maximumsuche,1358,53989,125800
+Maximumsuche,1359,132673,125900
+Maximumsuche,1360,100201,126000
+Maximumsuche,1361,137905,126100
+Maximumsuche,1362,145161,126200
+Maximumsuche,1363,58920,126300
+Maximumsuche,1364,107979,126400
+Maximumsuche,1365,51594,126500
+Maximumsuche,1366,133034,126600
+Maximumsuche,1367,86010,126700
+Maximumsuche,1368,158710,126800
+Maximumsuche,1369,148077,126900
+Maximumsuche,1370,135981,127000
+Maximumsuche,1371,127081,127100
+Maximumsuche,1372,156115,127200
+Maximumsuche,1373,57106,127300
+Maximumsuche,1374,58529,127400
+Maximumsuche,1375,61175,127500
+Maximumsuche,1376,161798,127600
+Maximumsuche,1377,144389,127700
+Maximumsuche,1378,155815,127800
+Maximumsuche,1379,167129,127900
+Maximumsuche,1380,105554,128000
+Maximumsuche,1381,61847,128100
+Maximumsuche,1382,157769,128200
+Maximumsuche,1383,106064,128300
+Maximumsuche,1384,157639,128400
+Maximumsuche,1385,205143,128500
+Maximumsuche,1386,78554,128600
+Maximumsuche,1387,121980,128700
+Maximumsuche,1388,143487,128800
+Maximumsuche,1389,137454,128900
+Maximumsuche,1390,146885,129000
+Maximumsuche,1391,137244,129100
+Maximumsuche,1392,141934,129200
+Maximumsuche,1393,108400,129300
+Maximumsuche,1394,183936,129400
+Maximumsuche,1395,65084,129500
+Maximumsuche,1396,169575,129600
+Maximumsuche,1397,125999,129700
+Maximumsuche,1398,132052,129800
+Maximumsuche,1399,218583,129900
+Maximumsuche,1400,168843,130000
+Maximumsuche,1401,153329,130100
+Maximumsuche,1402,83615,130200
+Maximumsuche,1403,161608,130300
+Maximumsuche,1404,139258,130400
+Maximumsuche,1405,133154,130500
+Maximumsuche,1406,73282,130600
+Maximumsuche,1407,130929,130700
+Maximumsuche,1408,143647,130800
+Maximumsuche,1409,167891,130900
+Maximumsuche,1410,205544,131000
+Maximumsuche,1411,140781,131100
+Maximumsuche,1412,158992,131200
+Maximumsuche,1413,130389,131300
+Maximumsuche,1414,75497,131400
+Maximumsuche,1415,158209,131500
+Maximumsuche,1416,140761,131600
+Maximumsuche,1417,75196,131700
+Maximumsuche,1418,56325,131800
+Maximumsuche,1419,55643,131900
+Maximumsuche,1420,56385,132000
+Maximumsuche,1421,52556,132100
+Maximumsuche,1422,54400,132200
+Maximumsuche,1423,55373,132300
+Maximumsuche,1424,58299,132400
+Maximumsuche,1425,44498,132500
+Maximumsuche,1426,44398,132600
+Maximumsuche,1427,46714,132700
+Maximumsuche,1428,49068,132800
+Maximumsuche,1429,68010,132900
+Maximumsuche,1430,76078,133000
+Maximumsuche,1431,112920,133100
+Maximumsuche,1432,68381,133200
+Maximumsuche,1433,67068,133300
+Maximumsuche,1434,63741,133400
+Maximumsuche,1435,68331,133500
+Maximumsuche,1436,67619,133600
+Maximumsuche,1437,55793,133700
+Maximumsuche,1438,51434,133800
+Maximumsuche,1439,48918,133900
+Maximumsuche,1440,51564,134000
+Maximumsuche,1441,55833,134100
+Maximumsuche,1442,71558,134200
+Maximumsuche,1443,49689,134300
+Maximumsuche,1444,53478,134400
+Maximumsuche,1445,50902,134500
+Maximumsuche,1446,51614,134600
+Maximumsuche,1447,52256,134700
+Maximumsuche,1448,68160,134800
+Maximumsuche,1449,60404,134900
+Maximumsuche,1450,48908,135000
+Maximumsuche,1451,61666,135100
+Maximumsuche,1452,55483,135200
+Maximumsuche,1453,50021,135300
+Maximumsuche,1454,47465,135400
+Maximumsuche,1455,47074,135500
+Maximumsuche,1456,52636,135600
+Maximumsuche,1457,51244,135700
+Maximumsuche,1458,56675,135800
+Maximumsuche,1459,49529,135900
+Maximumsuche,1460,52096,136000
+Maximumsuche,1461,52737,136100
+Maximumsuche,1462,53428,136200
+Maximumsuche,1463,48797,136300
+Maximumsuche,1464,64322,136400
+Maximumsuche,1465,62478,136500
+Maximumsuche,1466,54951,136600
+Maximumsuche,1467,49971,136700
+Maximumsuche,1468,47024,136800
+Maximumsuche,1469,51424,136900
+Maximumsuche,1470,49339,137000
+Maximumsuche,1471,52286,137100
+Maximumsuche,1472,50161,137200
+Maximumsuche,1473,52035,137300
+Maximumsuche,1474,46924,137400
+Maximumsuche,1475,47666,137500
+Maximumsuche,1476,47274,137600
+Maximumsuche,1477,53328,137700
+Maximumsuche,1478,50432,137800
+Maximumsuche,1479,50662,137900
+Maximumsuche,1480,52527,138000
+Maximumsuche,1481,50281,138100
+Maximumsuche,1482,50853,138200
+Maximumsuche,1483,49519,138300
+Maximumsuche,1484,50982,138400
+Maximumsuche,1485,49840,138500
+Maximumsuche,1486,50031,138600
+Maximumsuche,1487,50421,138700
+Maximumsuche,1488,50451,138800
+Maximumsuche,1489,50331,138900
+Maximumsuche,1490,46272,139000
+Maximumsuche,1491,41903,139100
+Maximumsuche,1492,43336,139200
+Maximumsuche,1493,55493,139300
+Maximumsuche,1494,51383,139400
+Maximumsuche,1495,53047,139500
+Maximumsuche,1496,50592,139600
+Maximumsuche,1497,52115,139700
+Maximumsuche,1498,51594,139800
+Maximumsuche,1499,51774,139900
+Maximumsuche,1500,51785,140000
+Maximumsuche,1501,56335,140100
+Maximumsuche,1502,55603,140200
+Maximumsuche,1503,54039,140300
+Maximumsuche,1504,52255,140400
+Maximumsuche,1505,51875,140500
+Maximumsuche,1506,52415,140600
+Maximumsuche,1507,52106,140700
+Maximumsuche,1508,51904,140800
+Maximumsuche,1509,55864,140900
+Maximumsuche,1510,66497,141000
+Maximumsuche,1511,51835,141100
+Maximumsuche,1512,44258,141200
+Maximumsuche,1513,43085,141300
+Maximumsuche,1514,44097,141400
+Maximumsuche,1515,43226,141500
+Maximumsuche,1516,43255,141600
+Maximumsuche,1517,43166,141700
+Maximumsuche,1518,45411,141800
+Maximumsuche,1519,43616,141900
+Maximumsuche,1520,44307,142000
+Maximumsuche,1521,43246,142100
+Maximumsuche,1522,44018,142200
+Maximumsuche,1523,43175,142300
+Maximumsuche,1524,44137,142400
+Maximumsuche,1525,43697,142500
+Maximumsuche,1526,45932,142600
+Maximumsuche,1527,43516,142700
+Maximumsuche,1528,48638,142800
+Maximumsuche,1529,45120,142900
+Maximumsuche,1530,43597,143000
+Maximumsuche,1531,58980,143100
+Maximumsuche,1532,44237,143200
+Maximumsuche,1533,44598,143300
+Maximumsuche,1534,49279,143400
+Maximumsuche,1535,47424,143500
+Maximumsuche,1536,43797,143600
+Maximumsuche,1537,44148,143700
+Maximumsuche,1538,43406,143800
+Maximumsuche,1539,43767,143900
+Maximumsuche,1540,45190,144000
+Maximumsuche,1541,45691,144100
+Maximumsuche,1542,57407,144200
+Maximumsuche,1543,44328,144300
+Maximumsuche,1544,56064,144400
+Maximumsuche,1545,44108,144500
+Maximumsuche,1546,45079,144600
+Maximumsuche,1547,44017,144700
+Maximumsuche,1548,55913,144800
+Maximumsuche,1549,51935,144900
+Maximumsuche,1550,54300,145000
+Maximumsuche,1551,54310,145100
+Maximumsuche,1552,53098,145200
+Maximumsuche,1553,77933,145300
+Maximumsuche,1554,52426,145400
+Maximumsuche,1555,52816,145500
+Maximumsuche,1556,52496,145600
+Maximumsuche,1557,52797,145700
+Maximumsuche,1558,52516,145800
+Maximumsuche,1559,52646,145900
+Maximumsuche,1560,53418,146000
+Maximumsuche,1561,64112,146100
+Maximumsuche,1562,52726,146200
+Maximumsuche,1563,64462,146300
+Maximumsuche,1564,56064,146400
+Maximumsuche,1565,54641,146500
+Maximumsuche,1566,53297,146600
+Maximumsuche,1567,46994,146700
+Maximumsuche,1568,44759,146800
+Maximumsuche,1569,45040,146900
+Maximumsuche,1570,44749,147000
+Maximumsuche,1571,45159,147100
+Maximumsuche,1572,45250,147200
+Maximumsuche,1573,45761,147300
+Maximumsuche,1574,45430,147400
+Maximumsuche,1575,45170,147500
+Maximumsuche,1576,44899,147600
+Maximumsuche,1577,48077,147700
+Maximumsuche,1578,45440,147800
+Maximumsuche,1579,45220,147900
+Maximumsuche,1580,47094,148000
+Maximumsuche,1581,45350,148100
+Maximumsuche,1582,45330,148200
+Maximumsuche,1583,46613,148300
+Maximumsuche,1584,44889,148400
+Maximumsuche,1585,48758,148500
+Maximumsuche,1586,63881,148600
+Maximumsuche,1587,48698,148700
+Maximumsuche,1588,45931,148800
+Maximumsuche,1589,45270,148900
+Maximumsuche,1590,47645,149000
+Maximumsuche,1591,45390,149100
+Maximumsuche,1592,45189,149200
+Maximumsuche,1593,45841,149300
+Maximumsuche,1594,45731,149400
+Maximumsuche,1595,45601,149500
+Maximumsuche,1596,46603,149600
+Maximumsuche,1597,45921,149700
+Maximumsuche,1598,49399,149800
+Maximumsuche,1599,56164,149900
+Maximumsuche,1600,45351,150000
+Maximumsuche,1601,45761,150100
+Maximumsuche,1602,46142,150200
+Maximumsuche,1603,45791,150300
+Maximumsuche,1604,45891,150400
+Maximumsuche,1605,46092,150500
+Maximumsuche,1606,48778,150600
+Maximumsuche,1607,62318,150700
+Maximumsuche,1608,46112,150800
+Maximumsuche,1609,47034,150900
+Maximumsuche,1610,46323,151000
+Maximumsuche,1611,46974,151100
+Maximumsuche,1612,46803,151200
+Maximumsuche,1613,46623,151300
+Maximumsuche,1614,47926,151400
+Maximumsuche,1615,55202,151500
+Maximumsuche,1616,56505,151600
+Maximumsuche,1617,47565,151700
+Maximumsuche,1618,46182,151800
+Maximumsuche,1619,54070,151900
+Maximumsuche,1620,46062,152000
+Maximumsuche,1621,47705,152100
+Maximumsuche,1622,48528,152200
+Maximumsuche,1623,46563,152300
+Maximumsuche,1624,47415,152400
+Maximumsuche,1625,49560,152500
+Maximumsuche,1626,47144,152600
+Maximumsuche,1627,46603,152700
+Maximumsuche,1628,52526,152800
+Maximumsuche,1629,61165,152900
+Maximumsuche,1630,46071,153000
+Maximumsuche,1631,47475,153100
+Maximumsuche,1632,47224,153200
+Maximumsuche,1633,47415,153300
+Maximumsuche,1634,47185,153400
+Maximumsuche,1635,47735,153500
+Maximumsuche,1636,48277,153600
+Maximumsuche,1637,47324,153700
+Maximumsuche,1638,47285,153800
+Maximumsuche,1639,47655,153900
+Maximumsuche,1640,59001,154000
+Maximumsuche,1641,47525,154100
+Maximumsuche,1642,47275,154200
+Maximumsuche,1643,48026,154300
+Maximumsuche,1644,52837,154400
+Maximumsuche,1645,49730,154500
+Maximumsuche,1646,49058,154600
+Maximumsuche,1647,47645,154700
+Maximumsuche,1648,47305,154800
+Maximumsuche,1649,51985,154900
+Maximumsuche,1650,46984,155000
+Maximumsuche,1651,47785,155100
+Maximumsuche,1652,47756,155200
+Maximumsuche,1653,48237,155300
+Maximumsuche,1654,48728,155400
+Maximumsuche,1655,47635,155500
+Maximumsuche,1656,50080,155600
+Maximumsuche,1657,47655,155700
+Maximumsuche,1658,51715,155800
+Maximumsuche,1659,53999,155900
+Maximumsuche,1660,53598,156000
+Maximumsuche,1661,54019,156100
+Maximumsuche,1662,47645,156200
+Maximumsuche,1663,49219,156300
+Maximumsuche,1664,48016,156400
+Maximumsuche,1665,48848,156500
+Maximumsuche,1666,47284,156600
+Maximumsuche,1667,48336,156700
+Maximumsuche,1668,54079,156800
+Maximumsuche,1669,48116,156900
+Maximumsuche,1670,49038,157000
+Maximumsuche,1671,53498,157100
+Maximumsuche,1672,48477,157200
+Maximumsuche,1673,49970,157300
+Maximumsuche,1674,47986,157400
+Maximumsuche,1675,49269,157500
+Maximumsuche,1676,48116,157600
+Maximumsuche,1677,53348,157700
+Maximumsuche,1678,48948,157800
+Maximumsuche,1679,50702,157900
+Maximumsuche,1680,49269,158000
+Maximumsuche,1681,48066,158100
+Maximumsuche,1682,49279,158200
+Maximumsuche,1683,48277,158300
+Maximumsuche,1684,53649,158400
+Maximumsuche,1685,48547,158500
+Maximumsuche,1686,50581,158600
+Maximumsuche,1687,66447,158700
+Maximumsuche,1688,51614,158800
+Maximumsuche,1689,51243,158900
+Maximumsuche,1690,48427,159000
+Maximumsuche,1691,49560,159100
+Maximumsuche,1692,48166,159200
+Maximumsuche,1693,49279,159300
+Maximumsuche,1694,48748,159400
+Maximumsuche,1695,49549,159500
+Maximumsuche,1696,59812,159600
+Maximumsuche,1697,50863,159700
+Maximumsuche,1698,48257,159800
+Maximumsuche,1699,57517,159900
+Maximumsuche,1700,49389,160000
+Maximumsuche,1701,49138,160100
+Maximumsuche,1702,49069,160200
+Maximumsuche,1703,49359,160300
+Maximumsuche,1704,50101,160400
+Maximumsuche,1705,52797,160500
+Maximumsuche,1706,49379,160600
+Maximumsuche,1707,49359,160700
+Maximumsuche,1708,49229,160800
+Maximumsuche,1709,49509,160900
+Maximumsuche,1710,48707,161000
+Maximumsuche,1711,49199,161100
+Maximumsuche,1712,50110,161200
+Maximumsuche,1713,48678,161300
+Maximumsuche,1714,53559,161400
+Maximumsuche,1715,54420,161500
+Maximumsuche,1716,53649,161600
+Maximumsuche,1717,63741,161700
+Maximumsuche,1718,83194,161800
+Maximumsuche,1719,59632,161900
+Maximumsuche,1720,60393,162000
+Maximumsuche,1721,59321,162100
+Maximumsuche,1722,61205,162200
+Maximumsuche,1723,59120,162300
+Maximumsuche,1724,60273,162400
+Maximumsuche,1725,59482,162500
+Maximumsuche,1726,59562,162600
+Maximumsuche,1727,64082,162700
+Maximumsuche,1728,62538,162800
+Maximumsuche,1729,86612,162900
+Maximumsuche,1730,63901,163000
+Maximumsuche,1731,67449,163100
+Maximumsuche,1732,78724,163200
+Maximumsuche,1733,61887,163300
+Maximumsuche,1734,66828,163400
+Maximumsuche,1735,61396,163500
+Maximumsuche,1736,60464,163600
+Maximumsuche,1737,61997,163700
+Maximumsuche,1738,59802,163800
+Maximumsuche,1739,59321,163900
+Maximumsuche,1740,63730,164000
+Maximumsuche,1741,75738,164100
+Maximumsuche,1742,79356,164200
+Maximumsuche,1743,63059,164300
+Maximumsuche,1744,62619,164400
+Maximumsuche,1745,61475,164500
+Maximumsuche,1746,64222,164600
+Maximumsuche,1747,65405,164700
+Maximumsuche,1748,56776,164800
+Maximumsuche,1749,61656,164900
+Maximumsuche,1750,54300,165000
+Maximumsuche,1751,61476,165100
+Maximumsuche,1752,61746,165200
+Maximumsuche,1753,63961,165300
+Maximumsuche,1754,59762,165400
+Maximumsuche,1755,63560,165500
+Maximumsuche,1756,69464,165600
+Maximumsuche,1757,60514,165700
+Maximumsuche,1758,63270,165800
+Maximumsuche,1759,62368,165900
+Maximumsuche,1760,51303,166000
+Maximumsuche,1761,53798,166100
+Maximumsuche,1762,51484,166200
+Maximumsuche,1763,50502,166300
+Maximumsuche,1764,53508,166400
+Maximumsuche,1765,50652,166500
+Maximumsuche,1766,58920,166600
+Maximumsuche,1767,57307,166700
+Maximumsuche,1768,51323,166800
+Maximumsuche,1769,52025,166900
+Maximumsuche,1770,51364,167000
+Maximumsuche,1771,51403,167100
+Maximumsuche,1772,51975,167200
+Maximumsuche,1773,65915,167300
+Maximumsuche,1774,51354,167400
+Maximumsuche,1775,54270,167500
+Maximumsuche,1776,52256,167600
+Maximumsuche,1777,59181,167700
+Maximumsuche,1778,52626,167800
+Maximumsuche,1779,54570,167900
+Maximumsuche,1780,53759,168000
+Maximumsuche,1781,52506,168100
+Maximumsuche,1782,54239,168200
+Maximumsuche,1783,52035,168300
+Maximumsuche,1784,51825,168400
+Maximumsuche,1785,51273,168500
+Maximumsuche,1786,55462,168600
+Maximumsuche,1787,52947,168700
+Maximumsuche,1788,55472,168800
+Maximumsuche,1789,53148,168900
+Maximumsuche,1790,54330,169000
+Maximumsuche,1791,53238,169100
+Maximumsuche,1792,55402,169200
+Maximumsuche,1793,69935,169300
+Maximumsuche,1794,58018,169400
+Maximumsuche,1795,52506,169500
+Maximumsuche,1796,52566,169600
+Maximumsuche,1797,52486,169700
+Maximumsuche,1798,57748,169800
+Maximumsuche,1799,53578,169900
+Maximumsuche,1800,52736,170000
+Maximumsuche,1801,55142,170100
+Maximumsuche,1802,54701,170200
+Maximumsuche,1803,52396,170300
+Maximumsuche,1804,52206,170400
+Maximumsuche,1805,55132,170500
+Maximumsuche,1806,59472,170600
+Maximumsuche,1807,64312,170700
+Maximumsuche,1808,62698,170800
+Maximumsuche,1809,53459,170900
+Maximumsuche,1810,56986,171000
+Maximumsuche,1811,57367,171100
+Maximumsuche,1812,56405,171200
+Maximumsuche,1813,52035,171300
+Maximumsuche,1814,52617,171400
+Maximumsuche,1815,64081,171500
+Maximumsuche,1816,82222,171600
+Maximumsuche,1817,62007,171700
+Maximumsuche,1818,57828,171800
+Maximumsuche,1819,53077,171900
+Maximumsuche,1820,53678,172000
+Maximumsuche,1821,55543,172100
+Maximumsuche,1822,52346,172200
+Maximumsuche,1823,55894,172300
+Maximumsuche,1824,54862,172400
+Maximumsuche,1825,53559,172500
+Maximumsuche,1826,53438,172600
+Maximumsuche,1827,57357,172700
+Maximumsuche,1828,52266,172800
+Maximumsuche,1829,53127,172900
+Maximumsuche,1830,60844,173000
+Maximumsuche,1831,53187,173100
+Maximumsuche,1832,55042,173200
+Maximumsuche,1833,52767,173300
+Maximumsuche,1834,54610,173400
+Maximumsuche,1835,53478,173500
+Maximumsuche,1836,57357,173600
+Maximumsuche,1837,53408,173700
+Maximumsuche,1838,64282,173800
+Maximumsuche,1839,58649,173900
+Maximumsuche,1840,53137,174000
+Maximumsuche,1841,54050,174100
+Maximumsuche,1842,56565,174200
+Maximumsuche,1843,72841,174300
+Maximumsuche,1844,56885,174400
+Maximumsuche,1845,54110,174500
+Maximumsuche,1846,55894,174600
+Maximumsuche,1847,53128,174700
+Maximumsuche,1848,53408,174800
+Maximumsuche,1849,63991,174900
+Maximumsuche,1850,53669,175000
+Maximumsuche,1851,61095,175100
+Maximumsuche,1852,57777,175200
+Maximumsuche,1853,55382,175300
+Maximumsuche,1854,53558,175400
+Maximumsuche,1855,63841,175500
+Maximumsuche,1856,58288,175600
+Maximumsuche,1857,55984,175700
+Maximumsuche,1858,54540,175800
+Maximumsuche,1859,54490,175900
+Maximumsuche,1860,53198,176000
+Maximumsuche,1861,56364,176100
+Maximumsuche,1862,55051,176200
+Maximumsuche,1863,63340,176300
+Maximumsuche,1864,58289,176400
+Maximumsuche,1865,57337,176500
+Maximumsuche,1866,73602,176600
+Maximumsuche,1867,74084,176700
+Maximumsuche,1868,55432,176800
+Maximumsuche,1869,60043,176900
+Maximumsuche,1870,53799,177000
+Maximumsuche,1871,54090,177100
+Maximumsuche,1872,55573,177200
+Maximumsuche,1873,59101,177300
+Maximumsuche,1874,59862,177400
+Maximumsuche,1875,55583,177500
+Maximumsuche,1876,57106,177600
+Maximumsuche,1877,54590,177700
+Maximumsuche,1878,55152,177800
+Maximumsuche,1879,55763,177900
+Maximumsuche,1880,55753,178000
+Maximumsuche,1881,54651,178100
+Maximumsuche,1882,60333,178200
+Maximumsuche,1883,56194,178300
+Maximumsuche,1884,54952,178400
+Maximumsuche,1885,55162,178500
+Maximumsuche,1886,54370,178600
+Maximumsuche,1887,54410,178700
+Maximumsuche,1888,66086,178800
+Maximumsuche,1889,56946,178900
+Maximumsuche,1890,68502,179000
+Maximumsuche,1891,56224,179100
+Maximumsuche,1892,54841,179200
+Maximumsuche,1893,56044,179300
+Maximumsuche,1894,71879,179400
+Maximumsuche,1895,54530,179500
+Maximumsuche,1896,54781,179600
+Maximumsuche,1897,57146,179700
+Maximumsuche,1898,58880,179800
+Maximumsuche,1899,69033,179900
+Maximumsuche,1900,54982,180000
+Maximumsuche,1901,54861,180100
+Maximumsuche,1902,68000,180200
+Maximumsuche,1903,57738,180300
+Maximumsuche,1904,58559,180400
+Maximumsuche,1905,72069,180500
+Maximumsuche,1906,65635,180600
+Maximumsuche,1907,57256,180700
+Maximumsuche,1908,57126,180800
+Maximumsuche,1909,54901,180900
+Maximumsuche,1910,56324,181000
+Maximumsuche,1911,55302,181100
+Maximumsuche,1912,72039,181200
+Maximumsuche,1913,56104,181300
+Maximumsuche,1914,58509,181400
+Maximumsuche,1915,66657,181500
+Maximumsuche,1916,55603,181600
+Maximumsuche,1917,55542,181700
+Maximumsuche,1918,56265,181800
+Maximumsuche,1919,56174,181900
+Maximumsuche,1920,56034,182000
+Maximumsuche,1921,57136,182100
+Maximumsuche,1922,56374,182200
+Maximumsuche,1923,55753,182300
+Maximumsuche,1924,54861,182400
+Maximumsuche,1925,55843,182500
+Maximumsuche,1926,57136,182600
+Maximumsuche,1927,55773,182700
+Maximumsuche,1928,67459,182800
+Maximumsuche,1929,67288,182900
+Maximumsuche,1930,65725,183000
+Maximumsuche,1931,67119,183100
+Maximumsuche,1932,66396,183200
+Maximumsuche,1933,66928,183300
+Maximumsuche,1934,67358,183400
+Maximumsuche,1935,67439,183500
+Maximumsuche,1936,66697,183600
+Maximumsuche,1937,66216,183700
+Maximumsuche,1938,77882,183800
+Maximumsuche,1939,68903,183900
+Maximumsuche,1940,66537,184000
+Maximumsuche,1941,66607,184100
+Maximumsuche,1942,69314,184200
+Maximumsuche,1943,66757,184300
+Maximumsuche,1944,66717,184400
+Maximumsuche,1945,66888,184500
+Maximumsuche,1946,75326,184600
+Maximumsuche,1947,79817,184700
+Maximumsuche,1948,66597,184800
+Maximumsuche,1949,66707,184900
+Maximumsuche,1950,87443,185000
+Maximumsuche,1951,66908,185100
+Maximumsuche,1952,70285,185200
+Maximumsuche,1953,69103,185300
+Maximumsuche,1954,66867,185400
+Maximumsuche,1955,74224,185500
+Maximumsuche,1956,87192,185600
+Maximumsuche,1957,68772,185700
+Maximumsuche,1958,67289,185800
+Maximumsuche,1959,67358,185900
+Maximumsuche,1960,67840,186000
+Maximumsuche,1961,67860,186100
+Maximumsuche,1962,70436,186200
+Maximumsuche,1963,69924,186300
+Maximumsuche,1964,67529,186400
+Maximumsuche,1965,67108,186500
+Maximumsuche,1966,67469,186600
+Maximumsuche,1967,68552,186700
+Maximumsuche,1968,67058,186800
+Maximumsuche,1969,68311,186900
+Maximumsuche,1970,67258,187000
+Maximumsuche,1971,86651,187100
+Maximumsuche,1972,67669,187200
+Maximumsuche,1973,67819,187300
+Maximumsuche,1974,68802,187400
+Maximumsuche,1975,68351,187500
+Maximumsuche,1976,68190,187600
+Maximumsuche,1977,68451,187700
+Maximumsuche,1978,87133,187800
+Maximumsuche,1979,68131,187900
+Maximumsuche,1980,69483,188000
+Maximumsuche,1981,69423,188100
+Maximumsuche,1982,68311,188200
+Maximumsuche,1983,68161,188300
+Maximumsuche,1984,70696,188400
+Maximumsuche,1985,77040,188500
+Maximumsuche,1986,82993,188600
+Maximumsuche,1987,68361,188700
+Maximumsuche,1988,68371,188800
+Maximumsuche,1989,68281,188900
+Maximumsuche,1990,68040,189000
+Maximumsuche,1991,68411,189100
+Maximumsuche,1992,68571,189200
+Maximumsuche,1993,82212,189300
+Maximumsuche,1994,68412,189400
+Maximumsuche,1995,68741,189500
+Maximumsuche,1996,87674,189600
+Maximumsuche,1997,68351,189700
+Maximumsuche,1998,69243,189800
+Maximumsuche,1999,84477,189900
+Maximumsuche,2000,68962,190000
+Maximumsuche,2001,68752,190100
+Maximumsuche,2002,69373,190200
+Maximumsuche,2003,70445,190300
+Maximumsuche,2004,68892,190400
+Maximumsuche,2005,76459,190500
+Maximumsuche,2006,71528,190600
+Maximumsuche,2007,69674,190700
+Maximumsuche,2008,81440,190800
+Maximumsuche,2009,78263,190900
+Maximumsuche,2010,69864,191000
+Maximumsuche,2011,68922,191100
+Maximumsuche,2012,82472,191200
+Maximumsuche,2013,70565,191300
+Maximumsuche,2014,69464,191400
+Maximumsuche,2015,69704,191500
+Maximumsuche,2016,74936,191600
+Maximumsuche,2017,64553,191700
+Maximumsuche,2018,66567,191800
+Maximumsuche,2019,63350,191900
+Maximumsuche,2020,58960,192000
+Maximumsuche,2021,62628,192100
+Maximumsuche,2022,61115,192200
+Maximumsuche,2023,59812,192300
+Maximumsuche,2024,63050,192400
+Maximumsuche,2025,62017,192500
+Maximumsuche,2026,68391,192600
+Maximumsuche,2027,59081,192700
+Maximumsuche,2028,76158,192800
+Maximumsuche,2029,74084,192900
+Maximumsuche,2030,61556,193000
+Maximumsuche,2031,65505,193100
+Maximumsuche,2032,61797,193200
+Maximumsuche,2033,61887,193300
+Maximumsuche,2034,64673,193400
+Maximumsuche,2035,59872,193500
+Maximumsuche,2036,67880,193600
+Maximumsuche,2037,66718,193700
+Maximumsuche,2038,60463,193800
+Maximumsuche,2039,62258,193900
+Maximumsuche,2040,59722,194000
+Maximumsuche,2041,68562,194100
+Maximumsuche,2042,63861,194200
+Maximumsuche,2043,77120,194300
+Maximumsuche,2044,64974,194400
+Maximumsuche,2045,87604,194500
+Maximumsuche,2046,74825,194600
+Maximumsuche,2047,67219,194700
+Maximumsuche,2048,70927,194800
+Maximumsuche,2049,61937,194900
+Maximumsuche,2050,67439,195000
+Maximumsuche,2051,59662,195100
+Maximumsuche,2052,68972,195200
+Maximumsuche,2053,68782,195300
+Maximumsuche,2054,68952,195400
+Maximumsuche,2055,68051,195500
+Maximumsuche,2056,101524,195600
+Maximumsuche,2057,87323,195700
+Maximumsuche,2058,63601,195800
+Maximumsuche,2059,68661,195900
+Maximumsuche,2060,65615,196000
+Maximumsuche,2061,66106,196100
+Maximumsuche,2062,63230,196200
+Maximumsuche,2063,63921,196300
+Maximumsuche,2064,66898,196400
+Maximumsuche,2065,68462,196500
+Maximumsuche,2066,78424,196600
+Maximumsuche,2067,78694,196700
+Maximumsuche,2068,66888,196800
+Maximumsuche,2069,64051,196900
+Maximumsuche,2070,59963,197000
+Maximumsuche,2071,89718,197100
+Maximumsuche,2072,65204,197200
+Maximumsuche,2073,69895,197300
+Maximumsuche,2074,65535,197400
+Maximumsuche,2075,67098,197500
+Maximumsuche,2076,60874,197600
+Maximumsuche,2077,69123,197700
+Maximumsuche,2078,62358,197800
+Maximumsuche,2079,66146,197900
+Maximumsuche,2080,70015,198000
+Maximumsuche,2081,60944,198100
+Maximumsuche,2082,66086,198200
+Maximumsuche,2083,64723,198300
+Maximumsuche,2084,71158,198400
+Maximumsuche,2085,82392,198500
+Maximumsuche,2086,79406,198600
+Maximumsuche,2087,97916,198700
+Maximumsuche,2088,65264,198800
+Maximumsuche,2089,69202,198900
+Maximumsuche,2090,91001,199000
+Maximumsuche,2091,63701,199100
+Maximumsuche,2092,63160,199200
+Maximumsuche,2093,75647,199300
+Maximumsuche,2094,64813,199400
+Maximumsuche,2095,62237,199500
+Maximumsuche,2096,63259,199600
+Maximumsuche,2097,66577,199700
+Maximumsuche,2098,73382,199800
+Maximumsuche,2099,75297,199900
+Dichtestes Punktepaar,2100,16126,2
+Dichtestes Punktepaar,2101,1484,3
+Dichtestes Punktepaar,2102,4069,4
+Dichtestes Punktepaar,2103,2084,5
+Dichtestes Punktepaar,2104,2325,6
+Dichtestes Punktepaar,2105,1895,7
+Dichtestes Punktepaar,2106,3056,8
+Dichtestes Punktepaar,2107,2986,9
+Dichtestes Punktepaar,2108,3668,10
+Dichtestes Punktepaar,2109,3518,11
+Dichtestes Punktepaar,2110,3898,12
+Dichtestes Punktepaar,2111,4259,13
+Dichtestes Punktepaar,2112,3658,14
+Dichtestes Punktepaar,2113,4129,15
+Dichtestes Punktepaar,2114,6524,16
+Dichtestes Punktepaar,2115,6895,17
+Dichtestes Punktepaar,2116,6524,18
+Dichtestes Punktepaar,2117,7016,19
+Dichtestes Punktepaar,2118,8750,20
+Dichtestes Punktepaar,2119,8007,21
+Dichtestes Punktepaar,2120,7256,22
+Dichtestes Punktepaar,2121,7627,23
+Dichtestes Punktepaar,2122,9712,24
+Dichtestes Punktepaar,2123,9501,25
+Dichtestes Punktepaar,2124,8549,26
+Dichtestes Punktepaar,2125,10884,27
+Dichtestes Punktepaar,2126,8067,28
+Dichtestes Punktepaar,2127,9010,29
+Dichtestes Punktepaar,2128,7206,30
+Dichtestes Punktepaar,2129,8770,31
+Dichtestes Punktepaar,2130,12928,32
+Dichtestes Punktepaar,2131,12588,33
+Dichtestes Punktepaar,2132,10473,34
+Dichtestes Punktepaar,2133,13219,35
+Dichtestes Punktepaar,2134,11235,36
+Dichtestes Punktepaar,2135,14221,37
+Dichtestes Punktepaar,2136,11376,38
+Dichtestes Punktepaar,2137,13530,39
+Dichtestes Punktepaar,2138,12709,40
+Dichtestes Punktepaar,2139,13250,41
+Dichtestes Punktepaar,2140,12027,42
+Dichtestes Punktepaar,2141,15815,43
+Dichtestes Punktepaar,2142,12688,44
+Dichtestes Punktepaar,2143,18862,45
+Dichtestes Punktepaar,2144,13590,46
+Dichtestes Punktepaar,2145,14652,47
+Dichtestes Punktepaar,2146,16235,48
+Dichtestes Punktepaar,2147,16978,49
+Dichtestes Punktepaar,2148,15574,50
+Dichtestes Punktepaar,2149,17138,51
+Dichtestes Punktepaar,2150,15975,52
+Dichtestes Punktepaar,2151,17970,53
+Dichtestes Punktepaar,2152,14973,54
+Dichtestes Punktepaar,2153,17979,55
+Dichtestes Punktepaar,2154,23823,56
+Dichtestes Punktepaar,2155,21588,57
+Dichtestes Punktepaar,2156,16837,58
+Dichtestes Punktepaar,2157,18921,59
+Dichtestes Punktepaar,2158,16006,60
+Dichtestes Punktepaar,2159,20415,61
+Dichtestes Punktepaar,2160,16366,62
+Dichtestes Punktepaar,2161,18731,63
+Dichtestes Punktepaar,2162,29556,64
+Dichtestes Punktepaar,2163,27891,65
+Dichtestes Punktepaar,2164,28513,66
+Dichtestes Punktepaar,2165,28894,67
+Dichtestes Punktepaar,2166,25867,68
+Dichtestes Punktepaar,2167,37543,69
+Dichtestes Punktepaar,2168,26389,70
+Dichtestes Punktepaar,2169,28874,71
+Dichtestes Punktepaar,2170,29304,72
+Dichtestes Punktepaar,2171,34146,73
+Dichtestes Punktepaar,2172,37162,74
+Dichtestes Punktepaar,2173,34987,75
+Dichtestes Punktepaar,2174,27681,76
+Dichtestes Punktepaar,2175,31039,77
+Dichtestes Punktepaar,2176,28433,78
+Dichtestes Punktepaar,2177,34316,79
+Dichtestes Punktepaar,2178,35178,80
+Dichtestes Punktepaar,2179,34396,81
+Dichtestes Punktepaar,2180,32723,82
+Dichtestes Punktepaar,2181,36320,83
+Dichtestes Punktepaar,2182,32361,84
+Dichtestes Punktepaar,2183,36180,85
+Dichtestes Punktepaar,2184,34717,86
+Dichtestes Punktepaar,2185,36530,87
+Dichtestes Punktepaar,2186,34947,88
+Dichtestes Punktepaar,2187,40880,89
+Dichtestes Punktepaar,2188,34556,90
+Dichtestes Punktepaar,2189,46423,91
+Dichtestes Punktepaar,2190,30006,92
+Dichtestes Punktepaar,2191,36561,93
+Dichtestes Punktepaar,2192,32763,94
+Dichtestes Punktepaar,2193,37843,95
+Dichtestes Punktepaar,2194,39297,96
+Dichtestes Punktepaar,2195,44318,97
+Dichtestes Punktepaar,2196,37563,98
+Dichtestes Punktepaar,2197,40139,99
+Dichtestes Punktepaar,2198,36841,100
+Dichtestes Punktepaar,2199,111857,200
+Dichtestes Punktepaar,2200,238858,300
+Dichtestes Punktepaar,2201,378165,400
+Dichtestes Punktepaar,2202,521412,500
+Dichtestes Punktepaar,2203,972188,600
+Dichtestes Punktepaar,2204,1153749,700
+Dichtestes Punktepaar,2205,1561189,800
+Dichtestes Punktepaar,2206,1593921,900
+Dichtestes Punktepaar,2207,1992743,1000
+Dichtestes Punktepaar,2208,2753343,1100
+Dichtestes Punktepaar,2209,5479797,1600
+Dichtestes Punktepaar,2210,10534714,2100
+Dichtestes Punktepaar,2211,13590835,2600
+Dichtestes Punktepaar,2212,21962029,3100
+Dichtestes Punktepaar,2213,23955925,3600
+Dichtestes Punktepaar,2214,40766704,4100
+Dichtestes Punktepaar,2215,113244224,4600
+Dichtestes Punktepaar,2216,70755566,5100
+Dichtestes Punktepaar,2217,65041643,5600
+Dichtestes Punktepaar,2218,78551689,6100
+Dichtestes Punktepaar,2219,100371165,7100
+Dichtestes Punktepaar,2220,218981360,8100
+Dichtestes Punktepaar,2221,199202325,9100
+Dichtestes Punktepaar,2222,349227004,10100
+Dichtestes Punktepaar,2223,282142216,11100
+Dichtestes Punktepaar,2224,338274635,12100
+Dichtestes Punktepaar,2225,390208456,13100
+Dichtestes Punktepaar,2226,431059917,14100
+Dichtestes Punktepaar,2227,495786318,15100
+Dichtestes Punktepaar,2228,527531304,16100
+Teilsummen - Negativ,2229,27611,1
+Teilsummen - Negativ,2230,1323,1
+Teilsummen - Negativ,2231,561,1
+Teilsummen - Negativ,2232,420,1
+Teilsummen - Negativ,2233,501,1
+Teilsummen - Negativ,2234,451,1
+Teilsummen - Negativ,2235,521,1
+Teilsummen - Negativ,2236,461,1
+Teilsummen - Negativ,2237,521,1
+Teilsummen - Negativ,2238,451,1
+Teilsummen - Negativ,2239,912,2
+Teilsummen - Negativ,2240,832,2
+Teilsummen - Negativ,2241,791,2
+Teilsummen - Negativ,2242,922,2
+Teilsummen - Negativ,2243,832,2
+Teilsummen - Negativ,2244,762,2
+Teilsummen - Negativ,2245,792,2
+Teilsummen - Negativ,2246,592,2
+Teilsummen - Negativ,2247,792,2
+Teilsummen - Negativ,2248,802,2
+Teilsummen - Negativ,2249,1494,3
+Teilsummen - Negativ,2250,3577,3
+Teilsummen - Negativ,2251,1483,3
+Teilsummen - Negativ,2252,1433,3
+Teilsummen - Negativ,2253,1243,3
+Teilsummen - Negativ,2254,1413,3
+Teilsummen - Negativ,2255,1413,3
+Teilsummen - Negativ,2256,1383,3
+Teilsummen - Negativ,2257,1453,3
+Teilsummen - Negativ,2258,1424,3
+Teilsummen - Negativ,2259,16306,4
+Teilsummen - Positiv,2260,3107,4
+Teilsummen - Negativ,2261,2886,4
+Teilsummen - Negativ,2262,2987,4
+Teilsummen - Negativ,2263,3929,4
+Teilsummen - Negativ,2264,2646,4
+Teilsummen - Negativ,2265,2846,4
+Teilsummen - Negativ,2266,3207,4
+Teilsummen - Negativ,2267,2606,4
+Teilsummen - Negativ,2268,2645,4
+Teilsummen - Negativ,2269,6785,5
+Teilsummen - Negativ,2270,4821,5
+Teilsummen - Negativ,2271,5983,5
+Teilsummen - Negativ,2272,4961,5
+Teilsummen - Negativ,2273,5933,5
+Teilsummen - Negativ,2274,5181,5
+Teilsummen - Negativ,2275,5782,5
+Teilsummen - Negativ,2276,5091,5
+Teilsummen - Negativ,2277,5943,5
+Teilsummen - Negativ,2278,5041,5
+Teilsummen - Negativ,2279,10142,6
+Teilsummen - Negativ,2280,10704,6
+Teilsummen - Negativ,2281,6865,6
+Teilsummen - Negativ,2282,9932,6
+Teilsummen - Negativ,2283,10463,6
+Teilsummen - Positiv,2284,10443,6
+Teilsummen - Negativ,2285,19995,6
+Teilsummen - Negativ,2286,1734,6
+Teilsummen - Negativ,2287,1393,6
+Teilsummen - Negativ,2288,1283,6
+Teilsummen - Negativ,2289,3277,7
+Teilsummen - Negativ,2290,2034,7
+Teilsummen - Negativ,2291,2465,7
+Teilsummen - Positiv,2292,2646,7
+Teilsummen - Negativ,2293,3107,7
+Teilsummen - Negativ,2294,2225,7
+Teilsummen - Negativ,2295,2235,7
+Teilsummen - Negativ,2296,2275,7
+Teilsummen - Negativ,2297,2666,7
+Teilsummen - Negativ,2298,2295,7
+Teilsummen - Negativ,2299,4219,8
+Teilsummen - Positiv,2230,15254,8
+Teilsummen - Negativ,2231,4280,8
+Teilsummen - Negativ,2232,4821,8
+Teilsummen - Negativ,2233,4189,8
+Teilsummen - Negativ,2234,4801,8
+Teilsummen - Negativ,2235,4359,8
+Teilsummen - Negativ,2236,4800,8
+Teilsummen - Positiv,2237,4029,8
+Teilsummen - Negativ,2238,4730,8
+Teilsummen - Positiv,2239,8980,9
+Teilsummen - Positiv,2240,8929,9
+Teilsummen - Negativ,2241,8830,9
+Teilsummen - Negativ,2242,8659,9
+Teilsummen - Negativ,2243,8780,9
+Teilsummen - Positiv,2244,9030,9
+Teilsummen - Positiv,2245,9240,9
+Teilsummen - Positiv,2246,9151,9
+Teilsummen - Positiv,2247,7807,9
+Teilsummen - Negativ,2248,8900,9
+Teilsummen - Positiv,2249,16957,10
+Teilsummen - Positiv,2250,17157,10
+Teilsummen - Negativ,2251,17077,10
+Teilsummen - Negativ,2252,16747,10
+Teilsummen - Negativ,2253,16807,10
+Teilsummen - Negativ,2254,16747,10
+Teilsummen - Negativ,2255,16767,10
+Teilsummen - Negativ,2256,16767,10
+Teilsummen - Negativ,2257,16947,10
+Teilsummen - Negativ,2258,16817,10
+Teilsummen - Positiv,2259,33173,11
+Teilsummen - Negativ,2260,33163,11
+Teilsummen - Negativ,2261,32963,11
+Teilsummen - Positiv,2262,34175,11
+Teilsummen - Positiv,2263,33935,11
+Teilsummen - Positiv,2264,33263,11
+Teilsummen - Positiv,2265,48657,11
+Teilsummen - Positiv,2266,33354,11
+Teilsummen - Positiv,2267,33324,11
+Teilsummen - Positiv,2268,31981,11
+Teilsummen - Positiv,2269,60784,12
+Teilsummen - Positiv,2270,66426,12
+Teilsummen - Positiv,2271,65875,12
+Teilsummen - Positiv,2272,67048,12
+Teilsummen - Negativ,2273,65434,12
+Teilsummen - Negativ,2274,65454,12
+Teilsummen - Negativ,2275,65294,12
+Teilsummen - Negativ,2276,65184,12
+Teilsummen - Negativ,2277,65264,12
+Teilsummen - Positiv,2278,75406,12
+Teilsummen - Negativ,2279,129977,13
+Teilsummen - Positiv,2280,130197,13
+Teilsummen - Positiv,2281,130207,13
+Teilsummen - Negativ,2282,129857,13
+Teilsummen - Negativ,2283,129847,13
+Teilsummen - Negativ,2284,129837,13
+Teilsummen - Negativ,2285,137554,13
+Teilsummen - Negativ,2286,131891,13
+Teilsummen - Positiv,2287,129456,13
+Teilsummen - Negativ,2288,130077,13
+Teilsummen - Negativ,2289,259122,14
+Teilsummen - Negativ,2290,266298,14
+Teilsummen - Positiv,2291,253570,14
+Teilsummen - Negativ,2292,261748,14
+Teilsummen - Negativ,2293,271489,14
+Teilsummen - Positiv,2294,260596,14
+Teilsummen - Positiv,2295,262659,14
+Teilsummen - Negativ,2296,259964,14
+Teilsummen - Negativ,2297,284398,14
+Teilsummen - Positiv,2298,260695,14
+Teilsummen - Negativ,2299,410235,15
+Teilsummen - Positiv,2300,181571,15
+Teilsummen - Negativ,2301,165525,15
+Teilsummen - Negativ,2302,168222,15
+Teilsummen - Positiv,2303,213070,15
+Teilsummen - Positiv,2304,284809,15
+Teilsummen - Negativ,2305,257689,15
+Teilsummen - Positiv,2306,201715,15
+Teilsummen - Positiv,2307,185540,15
+Teilsummen - Positiv,2308,205404,15
+Teilsummen - Positiv,2309,590514,16
+Teilsummen - Negativ,2310,646387,16
+Teilsummen - Negativ,2311,638309,16
+Teilsummen - Positiv,2312,645726,16
+Teilsummen - Positiv,2313,627746,16
+Teilsummen - Negativ,2314,638259,16
+Teilsummen - Negativ,2315,645425,16
+Teilsummen - Negativ,2316,644623,16
+Teilsummen - Negativ,2317,638229,16
+Teilsummen - Positiv,2318,644172,16
+Teilsummen - Negativ,2319,765009,17
+Teilsummen - Positiv,2320,766122,17
+Teilsummen - Positiv,2321,739252,17
+Teilsummen - Negativ,2322,771133,17
+Teilsummen - Negativ,2323,758264,17
+Teilsummen - Negativ,2324,751309,17
+Teilsummen - Negativ,2325,759918,17
+Teilsummen - Positiv,2326,757272,17
+Teilsummen - Negativ,2327,782137,17
+Teilsummen - Negativ,2328,746759,17
+Teilsummen - Negativ,2329,2579936,18
+Teilsummen - Negativ,2330,2620305,18
+Teilsummen - Negativ,2331,2587603,18
+Teilsummen - Positiv,2332,2590560,18
+Teilsummen - Negativ,2333,2578273,18
+Teilsummen - Positiv,2334,2554450,18
+Teilsummen - Positiv,2335,2573202,18
+Teilsummen - Negativ,2336,2588926,18
+Teilsummen - Negativ,2337,2781882,18
+Teilsummen - Negativ,2338,2576629,18
+Teilsummen - Positiv,2339,3074819,19
+Teilsummen - Negativ,2340,2981944,19
+Teilsummen - Negativ,2341,3010115,19
+Teilsummen - Positiv,2342,2989390,19
+Teilsummen - Negativ,2343,2972483,19
+Teilsummen - Negativ,2344,3016390,19
+Teilsummen - Negativ,2345,2995464,19
+Teilsummen - Positiv,2346,3003531,19
+Teilsummen - Negativ,2347,2986825,19
+Teilsummen - Positiv,2348,2999873,19
+Teilsummen - Positiv,2349,10116526,20
+Teilsummen - Positiv,2350,10063930,20
+Teilsummen - Positiv,2351,10285860,20
+Teilsummen - Positiv,2352,9792180,20
+Teilsummen - Negativ,2353,10279085,20
+Teilsummen - Negativ,2354,10307167,20
+Teilsummen - Negativ,2355,10293336,20
+Teilsummen - Negativ,2356,10342575,20
+Teilsummen - Positiv,2357,10285148,20
+Teilsummen - Positiv,2358,10289658,20
+Teilsummen - Negativ,2359,12200497,21
+Teilsummen - Positiv,2360,11906719,21
+Teilsummen - Positiv,2361,12267094,21
+Teilsummen - Positiv,2362,12273679,21
+Teilsummen - Positiv,2363,12319851,21
+Teilsummen - Positiv,2364,12075711,21
+Teilsummen - Positiv,2365,12157542,21
+Teilsummen - Negativ,2366,12115791,21
+Teilsummen - Negativ,2367,12010618,21
+Teilsummen - Positiv,2368,12191799,21
+Teilsummen - Positiv,2369,41570033,22
+Teilsummen - Positiv,2370,41251810,22
+Teilsummen - Negativ,2371,41207070,22
+Teilsummen - Positiv,2372,40698678,22
+Teilsummen - Negativ,2373,41325071,22
+Teilsummen - Positiv,2374,40190276,22
+Teilsummen - Positiv,2375,41281856,22
+Teilsummen - Positiv,2376,41349144,22
+Teilsummen - Positiv,2377,41417585,22
+Teilsummen - Negativ,2378,41138860,22
+Teilsummen - Positiv,2379,48291994,23
+Teilsummen - Positiv,2380,47761743,23
+Teilsummen - Negativ,2381,48759556,23
+Teilsummen - Positiv,2382,48800789,23
+Teilsummen - Negativ,2383,47680572,23
+Teilsummen - Positiv,2384,47886136,23
+Teilsummen - Positiv,2385,48345099,23
+Teilsummen - Negativ,2386,47450564,23
+Teilsummen - Positiv,2387,48651806,23
+Teilsummen - Positiv,2388,47147425,23
+Teilsummen - Positiv,2389,164412626,24
+Teilsummen - Positiv,2390,159457156,24
+Teilsummen - Negativ,2391,147290907,24
+Teilsummen - Negativ,2392,136718106,24
+Teilsummen - Positiv,2393,128486170,24
+Teilsummen - Positiv,2394,118068339,24
+Teilsummen - Positiv,2395,112628070,24
+Teilsummen - Negativ,2396,108110879,24
+Teilsummen - Negativ,2397,102912323,24
+Teilsummen - Negativ,2398,97832881,24
+Teilsummen - Negativ,2399,110204540,25
+Teilsummen - Negativ,2400,104611614,25
+Teilsummen - Negativ,2401,100766396,25
+Teilsummen - Positiv,2402,103865203,25
+Teilsummen - Positiv,2403,91118713,25
+Teilsummen - Negativ,2404,93309960,25
+Teilsummen - Negativ,2405,95308531,25
+Teilsummen - Positiv,2406,93163707,25
+Teilsummen - Positiv,2407,93830629,25
+Teilsummen - Positiv,2408,93305008,25
+Teilsummen - Negativ,2409,321950047,26
+Teilsummen - Positiv,2410,321760453,26
+Teilsummen - Positiv,2411,321863394,26
+Teilsummen - Positiv,2412,321027249,26
+Teilsummen - Positiv,2413,310610604,26
+Teilsummen - Negativ,2414,321660762,26
+Teilsummen - Positiv,2415,318583190,26
+Teilsummen - Negativ,2416,321887976,26
+Teilsummen - Positiv,2417,281447008,26
+Teilsummen - Positiv,2418,321833473,26
+Teilsummen - Positiv,2419,376099527,27
+Teilsummen - Negativ,2420,374883416,27
+Teilsummen - Positiv,2421,376142194,27
+Teilsummen - Positiv,2422,367570245,27
+Teilsummen - Positiv,2423,380203891,27
+Teilsummen - Negativ,2424,377857373,27
+Teilsummen - Positiv,2425,377586114,27
+Teilsummen - Positiv,2426,383997701,27
+Teilsummen - Positiv,2427,376178578,27
+Teilsummen - Positiv,2428,381942088,27
+Teilsummen - Negativ,2429,1286924553,28
+Teilsummen - Negativ,2430,1299461749,28
+Teilsummen - Positiv,2431,1247435078,28
+Teilsummen - Positiv,2432,1268959898,28
+Teilsummen - Negativ,2433,1294112015,28
+Teilsummen - Positiv,2434,1072530682,28
+Teilsummen - Negativ,2435,1295376238,28
+Teilsummen - Negativ,2436,1293782789,28
+Teilsummen - Negativ,2437,1293253674,28
+Teilsummen - Positiv,2438,1297353693,28
+Teilsummen - Positiv,2439,1464755809,29
+Teilsummen - Positiv,2440,1506172075,29
+Teilsummen - Negativ,2441,1504268565,29
+Teilsummen - Positiv,2442,1509511708,29
+Teilsummen - Negativ,2443,1511201642,29
+Teilsummen - Negativ,2444,1442631807,29
+Teilsummen - Negativ,2445,1303757141,29
+Teilsummen - Positiv,2446,1129173014,29
+Teilsummen - Negativ,2447,1474673741,29
+Teilsummen - Negativ,2448,1297460342,29
+Teilsummen - Negativ,2449,5163811441,30
+Teilsummen - Positiv,2450,5171240730,30
+Teilsummen - Negativ,2451,5176801730,30
+Teilsummen - Negativ,2452,5187442511,30
+Teilsummen - Positiv,2453,4375123466,30
+Teilsummen - Negativ,2454,5206993064,30
+Teilsummen - Positiv,2455,5198983235,30
+Teilsummen - Positiv,2456,5211845438,30
+Teilsummen - Positiv,2457,5221055383,30
+Teilsummen - Positiv,2458,5165606412,30
+Teilsummen - Positiv,2459,5714217232,31
+Teilsummen - Negativ,2460,5821372797,31
+Teilsummen - Negativ,2461,5276101448,31
+Teilsummen - Negativ,2462,5285392018,31
+Teilsummen - Negativ,2463,5290022739,31
+Teilsummen - Positiv,2464,5512587285,31
+Teilsummen - Negativ,2465,5355847071,31
+Teilsummen - Positiv,2466,6107892770,31
+Teilsummen - Negativ,2467,5963644869,31
+Teilsummen - Positiv,2468,6033852540,31
+Teilsummen - Negativ,2469,20884793875,32
+Teilsummen - Negativ,2470,20766924576,32
+Teilsummen - Negativ,2471,20732833183,32
