@@ -17,11 +17,13 @@ public class DinoCorp {
 
     private AbstractDinosaurFactory[] factories = new AbstractDinosaurFactory[MAX_FACTORIES];
     private String[] factoryNames = new String[MAX_FACTORIES];
-    private String[] orders = new String[0];
-    private AbstractTreeNode population;
     private int factorySize = 0;
-    private int currentOrderIndex;
     private AbstractDinosaurFactory activeFactory;
+
+    private String[] orders = new String[0];
+    private int currentOrderIndex;
+
+    private AbstractTreeNode population;
 
     // TODO: variable declarations
 
@@ -103,26 +105,28 @@ public class DinoCorp {
     public boolean processNextOrder() {
         // TODO: implementation
         if (currentOrderIndex >= orders.length) return false;
-
         String order = orders[currentOrderIndex++];
+
         if (order.charAt(0) == '#') {
-            return activateFactory(order.substring(1));
+            String factoryName = order.substring(1);
+            return activateFactory(factoryName);
         } else {
-            if (activeFactory != null) {
-                String[] dino = order.split("!");
-                String name = dino[0];
-                if (name.equals(order)) return false;
-                int dna;
-                try {
-                    dna = Integer.parseInt(dino[1]);
-                } catch (Exception e) {
-                    return false;
-                }
-                population = population.store(activeFactory.create(dna, name));
-                return true;
+            if (getActiveFactory() == null) return false;
+            String[] dino = order.split("!");
+            if (dino.length != 2) return false;
+
+            String name = dino[0];
+            int dna;
+            try {
+                dna = Integer.parseInt(dino[1]);
+            } catch (Exception e) {
+                return false;
             }
+
+            Dinosaur newDino = activeFactory.create(dna, name);
+            population = population.store(newDino);
+            return true;
         }
-        return false;
     }
 
     /**
@@ -135,19 +139,8 @@ public class DinoCorp {
         Dinosaur[] dinos = population.flatten();
         for (Dinosaur dino : dinos) {
             dino.feed(food);
-
         }
     }
-
-/*    private void feedRec(Dinosaur.Food food, AbstractTreeNode dino) {
-        if (dino instanceof NonEmptyTreeNode) {
-            ((NonEmptyTreeNode) dino).dinosaur.feed(food);
-            if (((NonEmptyTreeNode) dino).getLeft() instanceof NonEmptyTreeNode)
-                feedRec(food, ((NonEmptyTreeNode) dino).getLeft());
-            if (((NonEmptyTreeNode) dino).getRight() instanceof NonEmptyTreeNode)
-                feedRec(food, ((NonEmptyTreeNode) dino).getRight());
-        }
-    }*/
 
     /**
      * Counts the number of dinosaurs in the corporation's dino population that match a specified emotional state.
@@ -160,26 +153,10 @@ public class DinoCorp {
         int count = 0;
         Dinosaur[] dinos = population.flatten();
         for (Dinosaur dino : dinos) {
-            if (dino.getHappiness() == mood) {
-                count++;
-            }
+            if (dino.getHappiness() == mood) count++;
         }
         return count;
     }
-
-/*    private int countAnimalsByMoodRec(Dinosaur.Happiness mood, AbstractTreeNode dino) {
-        int count = 0;
-        if (dino instanceof NonEmptyTreeNode) {
-            if (((NonEmptyTreeNode) dino).dinosaur.getHappiness() == mood) {
-                count = 1;
-            }
-            if (((NonEmptyTreeNode) dino).getLeft() instanceof NonEmptyTreeNode)
-                count += countAnimalsByMoodRec(mood, ((NonEmptyTreeNode) dino).getLeft());
-            if (((NonEmptyTreeNode) dino).getRight() instanceof NonEmptyTreeNode)
-                count += countAnimalsByMoodRec(mood, ((NonEmptyTreeNode) dino).getRight());
-        }
-        return count;
-    }*/
 
     /**
      * Retrieves the currently active dinosaur factory for the corporation.
@@ -191,5 +168,4 @@ public class DinoCorp {
         // TODO: implementation
         return activeFactory != null ? activeFactory : null;
     }
-
 }

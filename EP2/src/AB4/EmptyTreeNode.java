@@ -25,6 +25,7 @@ public class EmptyTreeNode implements AbstractTreeNode {
     @Override
     public AbstractTreeNode store(Dinosaur animal) {
         // TODO: implementation
+        if (animal == null) return NIL;
         return new NonEmptyTreeNode(animal);
     }
 
