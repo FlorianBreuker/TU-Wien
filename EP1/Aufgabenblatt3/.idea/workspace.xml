@@ -32,19 +32,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/florian/Coding/TU Wien/EP1/Aufgabenblatt4&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/florian/Coding/TU Wien/EP2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -67,13 +68,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Aufgabe2" />
       <item itemvalue="Application.Aufgabe1" />
       <item itemvalue="Application.Aufgabe3" />
       <item itemvalue="Application.Aufgabe4" />
       <item itemvalue="Application.Aufgabe5" />
       <item itemvalue="Application.Aufgabe6" />
       <item itemvalue="Application.Aufgabe7" />
-      <item itemvalue="Application.Aufgabe2" />
     </list>
     <recent_temporary>
       <list>
@@ -104,6 +105,8 @@
       <workItem from="1732651271965" duration="16000" />
       <workItem from="1732662281143" duration="184000" />
       <workItem from="1732777295849" duration="17000" />
+      <workItem from="1741946588556" duration="1000" />
+      <workItem from="1742496301959" duration="98000" />
     </task>
     <servers />
   </component>
