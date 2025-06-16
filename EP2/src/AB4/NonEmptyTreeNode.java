@@ -3,8 +3,6 @@ package AB4;
 import AB4.Interfaces.AbstractTreeNode;
 import AB4.Interfaces.Dinosaur;
 
-import java.util.Objects;
-
 /**
  * Represents a non-empty node in a binary tree structure.
  *
@@ -16,10 +14,11 @@ import java.util.Objects;
  */
 public class NonEmptyTreeNode implements AbstractTreeNode {
     // TODO: variable declarations
+    int key;
+    Dinosaur dinosaur;
+
     AbstractTreeNode left;
     AbstractTreeNode right;
-    Dinosaur dinosaur;
-    int key;
 
     /**
      * Constructs a {@code NonEmptyTreeNode} that containing a given Dinosaur object.
@@ -31,10 +30,10 @@ public class NonEmptyTreeNode implements AbstractTreeNode {
      */
     NonEmptyTreeNode(Dinosaur animal) {
         // TODO: implementation
-        left = new EmptyTreeNode();
-        right = new EmptyTreeNode();
         key = animal.getDNA();
         dinosaur = animal;
+        left = EmptyTreeNode.NIL;
+        right = EmptyTreeNode.NIL;
     }
 
     /**
@@ -79,7 +78,7 @@ public class NonEmptyTreeNode implements AbstractTreeNode {
         if (key == dna) {
             dinosaur = null;
             if (left instanceof EmptyTreeNode && right instanceof EmptyTreeNode) {
-                return right.remove(dna);
+                return EmptyTreeNode.NIL;
             }
         } else if (dna < key) {
             left = left.remove(dna);
@@ -103,13 +102,10 @@ public class NonEmptyTreeNode implements AbstractTreeNode {
     @Override
     public Dinosaur find(int dna) {
         // TODO: implementation
-        if (key == dna) {
-            return this.dinosaur;
-        } else if (dna < key) {
-            return left.find(dna);
-        } else {
-            return right.find(dna);
-        }
+        if (key == dna) return this.dinosaur;
+        else if (dna < key) return left.find(dna);
+        else return right.find(dna);
+
     }
 
     /**
@@ -124,14 +120,12 @@ public class NonEmptyTreeNode implements AbstractTreeNode {
     @Override
     public Dinosaur findByName(String name) {
         // TODO: implementation
-        Dinosaur result = null;
-        if (dinosaur != null && Objects.equals(dinosaur.getName(), name)) {
-            result = dinosaur;
-        }
+        if (dinosaur.getName().equals(name)) return dinosaur;
 
-        if (left instanceof NonEmptyTreeNode) result = result == null ? left.findByName(name) : result;
-        if (right instanceof NonEmptyTreeNode) result = result == null ? right.findByName(name) : result;
-        return result;
+        Dinosaur dinoLeft = left.findByName(name);
+        Dinosaur dinoRight = right.findByName(name);
+
+        return dinoRight == null ? dinoLeft : dinoRight;
     }
 
     /**
@@ -148,26 +142,19 @@ public class NonEmptyTreeNode implements AbstractTreeNode {
     @Override
     public Dinosaur[] flatten() {
         // TODO: implementation
-        Dinosaur[] dinos = new Dinosaur[countDino()];
-        flattenRec(0, dinos);
+        int shift = 0;
+        int current = dinosaur == null ? 0 : 1;
+
+        Dinosaur[] dinosLeft = left.flatten();
+        Dinosaur[] dinosRight = right.flatten();
+        Dinosaur[] dinos = new Dinosaur[dinosLeft.length + dinosRight.length + current];
+
+        if (dinosLeft.length != 0) shift++;
+
+        System.arraycopy(dinosLeft, 0, dinos, 0, dinosLeft.length);
+        if (dinosaur != null) dinos[dinosLeft.length] = dinosaur;
+        System.arraycopy(dinosRight, 0, dinos, dinosLeft.length + shift, dinosRight.length);
         return dinos;
-    }
-
-    private int flattenRec(int i, Dinosaur[] dinos) {
-        if (left instanceof NonEmptyTreeNode) i = ((NonEmptyTreeNode) left).flattenRec(i, dinos);
-        if (dinosaur != null) dinos[i++] = dinosaur;
-        if (right instanceof NonEmptyTreeNode) i = ((NonEmptyTreeNode) right).flattenRec(i, dinos);
-        return i;
-    }
-
-    private int countDino() {
-        int count = 0;
-        if (dinosaur != null) {
-            count = 1;
-        }
-        if (left instanceof NonEmptyTreeNode) count += ((NonEmptyTreeNode) left).countDino();
-        if (right instanceof NonEmptyTreeNode) count += ((NonEmptyTreeNode) right).countDino();
-        return count;
     }
 
     // GETTERS AND SETTERS
