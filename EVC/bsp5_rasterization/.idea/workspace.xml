@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3920c73e-624f-4148-8834-2f3423750fe0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../AlgoDat/UE4_Test/src/DAG_Longest_Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClippingPlane.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Framebuffer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mesh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeshFace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MeshVertex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModelHandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cg_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/clipped_star.ply" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/clipped_torus.ply" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/plane.ply" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/reference/plane_fill.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/reference/plane_line.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/reference/star_fill.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/reference/star_fill_clipped.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/reference/star_line.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/reference/star_line_clipped.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/reference/text_fill.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/reference/text_line.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/reference/torus_fill.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/reference/torus_fill_clipped.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/reference/torus_line.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/reference/torus_line_clipped.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/star.ply" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/text.ply" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/torus.ply" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evc_env.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evc_env.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fillrasterization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linerasterization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plyReader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rasterize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saved_images/clipped_torus_fill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saved_images/torus_fill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgoDat/UE4_Test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgoDat/UE4_Test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB4/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB4/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB4/DinoCorp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB4/DinoCorp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB4/EmptyTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB4/EmptyTreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB4/MCTestAB4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB4/MCTestAB4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB4/NonEmptyTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB4/NonEmptyTreeNode.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2xwm4CV3G3vRJbQXgu6bwLsH7J3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main_gui.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3920c73e-624f-4148-8834-2f3423750fe0" name="Changes" comment="" />
+      <created>1748857318467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748857318467</updated>
+      <workItem from="1748857320336" duration="3594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bsp5_rasterization$main_gui.coverage" NAME="main_gui Coverage Results" MODIFIED="1748860781453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
