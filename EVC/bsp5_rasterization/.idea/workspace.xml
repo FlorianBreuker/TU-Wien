@@ -5,54 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3920c73e-624f-4148-8834-2f3423750fe0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../AlgoDat/UE4_Test/src/DAG_Longest_Path.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClippingPlane.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Framebuffer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mesh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MeshFace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MeshVertex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModelHandler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cg_icon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/clipped_star.ply" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/clipped_torus.ply" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/plane.ply" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/reference/plane_fill.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/reference/plane_line.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/reference/star_fill.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/reference/star_fill_clipped.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/reference/star_line.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/reference/star_line_clipped.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/reference/text_fill.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/reference/text_line.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/reference/torus_fill.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/reference/torus_fill_clipped.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/reference/torus_line.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/reference/torus_line_clipped.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/star.ply" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/text.ply" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/torus.ply" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/evc_env.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/evc_env.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fillrasterization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linerasterization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_gui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plyReader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rasterize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saved_images/clipped_torus_fill.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saved_images/torus_fill.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgoDat/UE4_Test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgoDat/UE4_Test/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EP2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB4/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB4/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB4/DinoCorp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB4/DinoCorp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB4/EmptyTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB4/EmptyTreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB4/MCTestAB4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB4/MCTestAB4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB3/BrailleDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB3/BrailleDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB3/BrailleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB3/BrailleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB3/BrailleListBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB3/BrailleListBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB3/BrailleReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB3/BrailleReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB3/BrailleSymbolTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB3/BrailleSymbolTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB3/Interfaces/Decoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB3/Interfaces/Decoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB3/Interfaces/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB3/Interfaces/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB3/Interfaces/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB3/Interfaces/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB3/Provided/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB3/Provided/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EP2/src/AB3/Provided/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB3/Provided/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../EP2/src/AB4/NonEmptyTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EP2/src/AB4/NonEmptyTreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806/.idea/vta12418806.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806/vorbereitungstests" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806_Pixel/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806_Pixel/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806_Pixel/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806_Pixel/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806_Pixel/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806_Pixel/untitled/src/Pixel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806_Pixel/untitled/src/PixelTreeSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806_Pixel/untitled/src/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806_Pixel/untitled/src/RowRingList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806_Pixel/untitled/src/angabe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vta12418806_Pixel/untitled/untitled.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +48,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2xwm4CV3G3vRJbQXgu6bwLsH7J3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -77,7 +63,7 @@
     "Python.main_gui.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -102,6 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748857318467</updated>
       <workItem from="1748857320336" duration="3594000" />
+      <workItem from="1750066275596" duration="392000" />
     </task>
     <servers />
   </component>

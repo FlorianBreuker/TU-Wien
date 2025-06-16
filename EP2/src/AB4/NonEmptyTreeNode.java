@@ -32,8 +32,8 @@ public class NonEmptyTreeNode implements AbstractTreeNode {
         // TODO: implementation
         key = animal.getDNA();
         dinosaur = animal;
-        left = EmptyTreeNode.NIL;
-        right = EmptyTreeNode.NIL;
+        left = new EmptyTreeNode();
+        right = new EmptyTreeNode();
     }
 
     /**
