@@ -42,23 +42,30 @@ static node *findFirst(node *head) {
 
 node* prepend(node *head, char *data) {
   node *newNode = createHead(data);
-  node *first = findFirst(head);
-  first->prev = newNode;
-  newNode->next = first;
-  return head;
+  head->prev = newNode;
+  newNode->next = head;
+  return newNode;
 }
 
 // print, one element per line
+// static void printPrime(int i, node *head) {
+//   printf("%d: %s\n", i, head->data);
+//   if (head->next != NULL) {
+//     printPrime(i + 1, head->next);
+//   }
+// }
+
 static void printPrime(int i, node *head) {
-  printf("%d: %s\n", i, head->data);
-  if (head->next != NULL) {
-    printPrime(i + 1, head->next);
+  node *cur = head;
+  printf("%d: %s\n", i++, cur->data);
+  while (cur->next != NULL){
+    printf("%d: %s\n", i++, cur->data);
+    cur = cur->next;
   }
 }
 
 void print(node *head) {
-  node *first = findFirst(head);
-  printPrime(0, first);
+  printPrime(0, head);
 }
 
 // move

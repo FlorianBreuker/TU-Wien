@@ -1,14 +1,22 @@
-.PHONY: all
+# Compiler and flags variables
+CC = gcc
+CFLAGS = -std=c99 -Wall -pedantic
+
+.PHONY: all clean
 
 all: main
 
 main: main.o list.o
-	gcc -std=c99 -Wall -pedantic -o $@ $^
+	$(CC) $(CFLAGS) -o $@ $^
 
-list.o: list.c list.h
-	gcc -std=c99 -Wall -pedantic -c -o $@ $<
+# Pattern rule for object files
+%.o: %.c
+	$(CC) $(CFLAGS) -c -o $@ $<
 
-main.o: main.c list.h
-	gcc -std=c99 -Wall -pedantic -c -o $@ $<
+# Additional dependencies
+main.o: list.h
+list.o: list.h
 
-list.o: list.c list.h
+# Clean target
+clean:
+	rm -f *.o main
