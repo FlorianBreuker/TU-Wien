@@ -28,7 +28,6 @@ def evc_read_file_info(filename: str) -> Tuple[int, Tuple]:
     asShotNeutral = meta_dict['AsShotNeutral']
     ### END STUDENT CODE
 
-
     return blackLevel, asShotNeutral
 
 def evc_transform_colors(input_image: np.ndarray, blackLevel: float) -> np.ndarray:

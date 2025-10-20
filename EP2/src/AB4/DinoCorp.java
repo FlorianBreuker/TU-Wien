@@ -49,7 +49,7 @@ public class DinoCorp {
      */
     public int registerFactory(AbstractDinosaurFactory dinoFactory, String name) {
         // TODO: implementation
-        if (factorySize <= MAX_FACTORIES) {
+        if (factorySize < MAX_FACTORIES) {
             factories[factorySize] = dinoFactory;
             factoryNames[factorySize] = name;
             return factorySize++;

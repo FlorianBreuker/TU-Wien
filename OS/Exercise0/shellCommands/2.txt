@@ -1,0 +1,12 @@
+#!/bin/bash
+
+x="./1.txt"
+y=$(wc -c < "$x")
+
+echo "The file $x is $y bytes long"
+
+z="./0.txt"
+a=$(wc -c  "$x" "$z" | tail -1 | grep -o '[0-9]*')
+
+echo "The files $x and $z are $a bytes long"
+

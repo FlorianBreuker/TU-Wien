@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# this should print "success"
+true && (exit 0) && echo "success1"
+
+# this should print nothing
+false || (exit 1) || echo "success2"
+
+# this should also print nothing
+(exit 0) && (exit 0) && echo "success3"
+
+# this should print "foobar\nsuccess"
+echo "foobar" | grep "foo" && echo "success4"
+
+# this should print nothing
+echo "foobar" | grep "bar" && echo "success5"
