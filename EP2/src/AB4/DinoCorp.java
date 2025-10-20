@@ -106,6 +106,7 @@ public class DinoCorp {
         // TODO: implementation
         if (currentOrderIndex >= orders.length) return false;
         String order = orders[currentOrderIndex++];
+        if (order.isEmpty()) return false;
 
         if (order.charAt(0) == '#') {
             String factoryName = order.substring(1);
